@@ -1,7 +1,7 @@
 # Awsome-AIDD
 
-- [Review](##Review)
-- [Representations for Small Molecules](##RepresentationsforSmallMolecules)
+- [Review](#Review)
+- [Representations for Small Molecules](#Representations-for-Small-Molecules)
 - [Representations for Proteins](##RepresentationsforProteins)
   - [Protein Language Models (PLMs)](###ProteinLanguageModels(PLMs))
   - [Learning from Protein Structures](###LearningfromProteinStructures)  
