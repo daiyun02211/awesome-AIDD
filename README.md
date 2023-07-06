@@ -1,14 +1,14 @@
 # Awsome-AIDD
 
-- [Review](## Review)
-- [Representations for Small Molecules](## Representations for Small Molecules)
-- [Representations for Proteins](## Representations for Proteins)
-  - [Protein Language Models (PLMs)](### Protein Language Models (PLMs))
-  - [Learning from Protein Structures](### Learning from Protein Structures)  
-- [Protein Structure Prediction](## Protein Structure Prediction)
-- [Effects of Mutations](## Effects of Mutations)
-- [Compound-protein Interaction (CPI)](## Compound-protein Interaction (CPI))
-- [Protein-protein Interaction (PPI)](## Protein-protein Interaction (PPI))
+- [Review](##Review)
+- [Representations for Small Molecules](##RepresentationsforSmallMolecules)
+- [Representations for Proteins](##RepresentationsforProteins)
+  - [Protein Language Models (PLMs)](###ProteinLanguageModels(PLMs))
+  - [Learning from Protein Structures](###LearningfromProteinStructures)  
+- [Protein Structure Prediction](##ProteinStructurePrediction)
+- [Effects of Mutations](##EffectsofMutations)
+- [Compound-protein Interaction (CPI)](##Compound-proteinInteraction(CPI))
+- [Protein-protein Interaction (PPI)](##Protein-proteinInteraction(PPI))
 
 
 ## Review
@@ -99,7 +99,7 @@
 ## Antibody
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
-| 2021 | Protein design and variant prediction using autoregressive generative models | Nat Commun | [Link](https://doi.org/10.1038/s41467-021-22732-w) | [Link1]([https://github.com/facebookresearch/esm](https://github.com/debbiemarkslab/SeqDesign)), [Link2](https://doi.org/10.5281/zenodo.4606785) |
+| 2021 | Protein design and variant prediction using autoregressive generative models | Nat Commun | [Link](https://doi.org/10.1038/s41467-021-22732-w) | [Link1](https://github.com/facebookresearch/esm](https://github.com/debbiemarkslab/SeqDesign)), [Link2](https://doi.org/10.5281/zenodo.4606785) |
 
 
 ## Machine Learning Algorithms
@@ -110,5 +110,5 @@
 
 
 # Related Awesome
-⋅⋅* [awesome-protein-representation-learning](https://github.com/LirongWu/awesome-protein-representation-learning)
-⋅⋅* [awesome-AI-based-protein-design](https://github.com/opendilab/awesome-AI-based-protein-design)
+* [awesome-protein-representation-learning](https://github.com/LirongWu/awesome-protein-representation-learning)
+* [awesome-AI-based-protein-design](https://github.com/opendilab/awesome-AI-based-protein-design)
