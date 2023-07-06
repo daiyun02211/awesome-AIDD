@@ -1,4 +1,4 @@
-# Awsome-AIDD
+# Awesome-AIDD
 
 - [Review](#Review)
 - [Representations for Small Molecules](#Representations-for-Small-Molecules)
