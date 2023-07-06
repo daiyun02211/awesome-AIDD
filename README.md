@@ -31,7 +31,8 @@
 | 2021 | Out-of-the-box deep learning prediction of pharmaceutical properties by broadly learned knowledge-based molecular representations | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-021-00301-6) | [link](https://github.com/shenwanxiang/bidd-molmap) |
 
 
-## Representations for Proteins ([awesome-protein-representation-learning](https://github.com/LirongWu/awesome-protein-representation-learning) is highly recommanded)
+## Representations for Proteins 
+### [awesome-protein-representation-learning](https://github.com/LirongWu/awesome-protein-representation-learning) is highly recommanded
 ### Protein Language Models (PLMs)
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
@@ -50,6 +51,7 @@
 | 2019 | Generative models for graph-based protein design | NeurIPS 2019 | [Link](https://papers.nips.cc/paper_files/paper/2019/hash/f3a4ff4839c56a5f460c88cce3666a2b-Abstract.html) | [Link](https://github.com/jingraham/neurips19-graph-protein-design) |
 | 2021 | Learning from protein structure with geometric vector perceptrons (GVP) | ICLR 2021 | [Link](https://openreview.net/forum?id=1YLJDvSx6J4) | [Link](https://github.com/drorlab/gvp) |
 | 2022 | Learning inverse folding from millions of predicted structures (ESM-IF1) | ICML 2022 | [Link](https://proceedings.mlr.press/v162/hsu22a.html) | [Link](https://github.com/facebookresearch/esm) |
+| 2022 | Pre-Training of Equivariant Graph Matching Networks with Conformation Flexibility for Drug Binding (ProtMD) | Adv Sci (Weinh) | [Link](10.1002/advs.202203796) | [Link](https://github.com/smiles724/ProtMD) |
 | 2023 | Protein representation learning by geometric structure pretraining (GearNet) | ICLR 2023 | [Link](https://openreview.net/forum?id=to3qCB3tOh9) | [Link](https://github.com/DeepGraphLearning/GearNet) |
 
 
@@ -79,8 +81,23 @@
 | 2019 | DeepAffinity: interpretable deep learning of compound–protein affinity through unified recurrent and convolutional neural networks | Bioinformatics | [Link](10.1093/bioinformatics/btz111) | [Link](https://github.com/Shen-Lab/DeepAffinity) |
 | 2020 | MONN: a multi-objective neural network for predicting compound-protein interactions and affinities | Cell Syst | [Link](https://doi.org/10.1016/j.cels.2020.03.002) | [Link](https://github.com/lishuya17/MONN) |
 | 2020 | GraphDTA: predicting drug–target binding affinity with graph neural networks | Bioinformatics | [Link](10.1093/bioinformatics/btaa921) | [Link](https://github.com/thinng/GraphDTA) |
+| 2020 | TransformerCPI: improving compound–protein interaction prediction by sequence-based deep learning with self-attention mechanism and label reversal experiments | Bioinformatics | [Link](10.1093/bioinformatics/btaa524) | [Link]([https://github.com/thinng/GraphDTA](https://github.com/lifanchen-simm/transformerCPI)) |
+| 2020 | Predicting drug–protein interaction using quasi-visual question answering system (DrugVQA) | Nat Mach Intell | [Link](10.1038/s42256-020-0152-y) | [Link](https://github.com/prokia/drugVQA) |
+| 2020 | DeepACTION: A deep learning-based method for predicting novel drug-target interactions | Anal Biochem | [Link](10.1016/j.ab.2020.113978) | - |
+| 2021 | Multi-PLI: interpretable multi-task deep learning model for unifying protein-ligand interaction datasets | J Cheminform | [Link](10.1186/s13321-021-00510-6) | [Link](https://github.com/Siat-Code/Multi-PLI/) |
+| 2021 | MolTrans: Molecular Interaction Transformer for drug-target interaction prediction | Bioinformatics | [Link](10.1093/bioinformatics/btaa880) | [Link](https://github.com/kexinhuang12345/moltrans) |
+| 2021 | DeepDTAF: a deep learning method to predict protein–ligand binding affinity | Brief Bioinform | [Link](10.1093/bib/bbab072) | [Link](github.com/KailiWang1/DeepDTAF) |
+| 2022 | HyperAttentionDTI: improving drug–protein interaction prediction by sequence-based deep learning with attention mechanism | Bioinformatics | [Link](10.1093/bioinformatics/btab715) | [Link1](https://github.com/zhaoqichang/HpyerAttentionDTI) [Link2](https://zenodo.org/record/5039589) |
+| 2022 | DeepREAL: a deep learning powered multi-scale modeling framework for predicting out-of-distribution ligand-induced GPCR activity | Bioinformatics | [Link](10.1093/bioinformatics/btac154) | [Link](https://github.com/XieResearchGroup/DeepREAL) |
+| 2022 | MGraphDTA: deep multiscale graph neural network for explainable drug–target binding affinity prediction | Chem Sci | [Link](10.1039/d1sc05180f) | [Link](https://github.com/guaguabujianle/MGraphDTA) |
+| 2022 | BridgeDPI: a novel Graph Neural Network for predicting drug–protein interactions | Bioinformatics | [Link](10.1093/bioinformatics/btac155) | [Link](https://github.com/SenseTime-Knowledge-Mining/BridgeDPI) |
+| 2022 | Structure-Aware Multimodal Deep Learning for Drug–Protein Interaction Prediction | JCIM | [Link](10.1021/acs.jcim.2c00060) | [Link](https://github.com/biomed-AI/STAMP-DPI) |
 | 2022 | TransDTI: Transformer-Based Language Models for Estimating DTIs and Building a Drug Recommendation Workflow | ACS Omega | [Link](10.1021/acsomega.1c05203) | [Link](https://github.com/TeamSundar/transDTI) |
+| 2022 | AttentionSiteDTI: an interpretable graph-based model for drug-target interaction prediction using NLP sentence-level relation classification | Brief Bioinform | [Link](10.1093/bib/bbac272) | [Link](https://github.com/yazdanimehdi/AttentionSiteDTI) |
+| 2022 | CoaDTI: multi-modal co-attention based framework for drug-target interaction annotation | Brief Bioinform | [Link](10.1093/bib/bbac446) | [Link](https://github.com/Layne-Huang/CoaDTI) |
 | 2022 | Improved compound-protein interaction site and binding affinity prediction using self-supervised protein embeddings | BMC Bioinformatics | [Link](10.1186/s12859-022-05107-w) | [Link](https://github.com/Jwoods14/SPE-MONN) |
+| 2023 | Improving the generalizability of protein-ligand binding predictions with AI-Bind | Nat Commun | [Link](10.1038/s41467-023-37572-z) | [Link1](https://github.com/ChatterjeeAyan/AI-Bind) [Link2](https://doi.org/10.5281/zenodo.7730755)|
+| 2023 | Interpretable bilinear attention network with domain adaptation improves drug–target prediction (DrugBAN) | Nat Mach Intell | [Link](10.1038/s42256-022-00605-1) | [Link1](https://github.com/peizhenbai/DrugBAN) [Link2](https://doi.org/10.24433/CO.3558316.v1)|
 
 
 ## Protein-protein Interaction (PPI)
