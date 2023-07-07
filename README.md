@@ -8,6 +8,9 @@
 - [Protein Structure Prediction](#Protein-Structure-Prediction)
 - [Effects of Mutations](#Effects-of-Mutations)
 - [Compound-protein Interaction (CPI)](#Compound-protein-Interaction-cpi)
+  - [Protein Sequence Based](#Protein-Sequence-Based)
+  - [Structure Based (3DCNN)](#Structure-Based-CNN)
+  - [Structure Based (GNN)](#Structure-Based-GNN)
 - [Protein-protein Interaction (PPI)](#Protein-protein-Interaction-ppi)
 - [De Novo Molecule Design](#De-Novo-Molecule-Design)
   - [Protein](#Protein)
@@ -75,6 +78,7 @@
 
 
 ## Compound-protein Interaction (CPI)
+### Protein Sequence Based
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2018 | DeepDTA: deep drug-target binding affinity prediction | Bioinformatics | [Link](10.1093/bioinformatics/bty593) | [Link](https://github.com/hkmztrk/DeepDTA) |
@@ -98,7 +102,25 @@
 | 2022 | Improved compound-protein interaction site and binding affinity prediction using self-supervised protein embeddings | BMC Bioinformatics | [Link](10.1186/s12859-022-05107-w) | [Link](https://github.com/Jwoods14/SPE-MONN) |
 | 2023 | Improving the generalizability of protein-ligand binding predictions with AI-Bind | Nat Commun | [Link](10.1038/s41467-023-37572-z) | [Link1](https://github.com/ChatterjeeAyan/AI-Bind) [Link2](https://doi.org/10.5281/zenodo.7730755)|
 | 2023 | Interpretable bilinear attention network with domain adaptation improves drug–target prediction (DrugBAN) | Nat Mach Intell | [Link](10.1038/s42256-022-00605-1) | [Link1](https://github.com/peizhenbai/DrugBAN) [Link2](https://doi.org/10.24433/CO.3558316.v1)|
-
+### Structure Based (CNN)
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2015 | AtomNet: a deep convolutional neural network for bioactivity prediction in structure-based drug discovery | arXiv | [Link](https://arxiv.org/abs/1510.02855) | - |
+| 2017 | Protein–ligand scoring with convolutional neural networks | JCIM | [Link](10.1021/acs.jcim.6b00740) | [Link](https://github.com/gnina/models) |
+| 2018 | KDEEP: protein–ligand absolute binding affinity prediction via 3D-convolutional neural networks | JCIM | [Link](10.1021/acs.jcim.7b00650) | - |
+| 2018 | Development and evaluation of a deep learning model for protein–ligand binding affinity prediction | Bioinformatics | [Link](10.1093/bioinformatics/bty374) | [Link](http://gitlab.com/cheminfIBB/pafnucy) |
+| 2018 | Protein family-specific models using deep neural networks and transfer learning improve virtual screening and highlight the need for more data | JCIM | [Link](10.1021/acs.jcim.8b00350) | - |
+| 2019 | OnionNet: a multiple-layer intermolecular-contact-based convolutional neural network for protein–ligand binding affinity prediction | ACS Omega | [Link](doi.org/10.1021/acsomega.9b01997) | [Link](http://github.com/zhenglz/onionnet/) |
+| 2020 | RosENet: improving binding affinity prediction by leveraging molecular mechanics energies with an ensemble of 3D convolutional neural networks | JCIM | [Link](10.1021/acs.jcim.0c00075) | [Link](https://github.com/DS3Lab/RosENet/tree/master) |
+| 2020 | AK-Score: accurate protein-ligand binding affinity prediction using an ensemble of 3D-convolutional neural networks | Int J Mol Sci | [Link](10.3390/ijms21228424) | - |
+### Structure Based (GNN)
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+### Deep Learning for Docking
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2020 | Combining docking pose rank and structure with deep learning improves protein–ligand binding mode prediction over a baseline docking approach | JCIM | [Link](10.1021/acs.jcim.9b00927) | - |
+| 2023 | AQDnet: deep neural network for protein–ligand docking simulation | ACS Omega | [Link](doi.org/10.1021/acsomega.3c02411) | [Link](https://github.com/koji11235/AQDnet) |
 
 ## Protein-protein Interaction (PPI)
 | Year | Title | Journal | Paper | Code |
