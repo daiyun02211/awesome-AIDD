@@ -9,8 +9,9 @@
 - [Effects of Mutations](#Effects-of-Mutations)
 - [Compound-protein Interaction (CPI)](#Compound-protein-Interaction-cpi)
   - [Protein Sequence Based](#Protein-Sequence-Based)
-  - [Structure Based (3DCNN)](#Structure-Based-CNN)
+  - [Structure Based (CNN)](#Structure-Based-CNN)
   - [Structure Based (GNN)](#Structure-Based-GNN)
+  - [Deep Learning for Docking](#Deep-Learning-for-Docking)
 - [Protein-protein Interaction (PPI)](#Protein-protein-Interaction-ppi)
 - [De Novo Molecule Design](#De-Novo-Molecule-Design)
   - [Protein](#Protein)
@@ -54,7 +55,7 @@
 | 2019 | Generative models for graph-based protein design | NeurIPS 2019 | [Link](https://papers.nips.cc/paper_files/paper/2019/hash/f3a4ff4839c56a5f460c88cce3666a2b-Abstract.html) | [Link](https://github.com/jingraham/neurips19-graph-protein-design) |
 | 2021 | Learning from protein structure with geometric vector perceptrons (GVP) | ICLR 2021 | [Link](https://openreview.net/forum?id=1YLJDvSx6J4) | [Link](https://github.com/drorlab/gvp) |
 | 2022 | Learning inverse folding from millions of predicted structures (ESM-IF1) | ICML 2022 | [Link](https://proceedings.mlr.press/v162/hsu22a.html) | [Link](https://github.com/facebookresearch/esm) |
-| 2022 | Pre-Training of Equivariant Graph Matching Networks with Conformation Flexibility for Drug Binding (ProtMD) | Adv Sci (Weinh) | [Link](10.1002/advs.202203796) | [Link](https://github.com/smiles724/ProtMD) |
+| 2022 | Pre-training of equivariant graph matching networks with conformation flexibility for drug binding (ProtMD) | Adv Sci (Weinh) | [Link](10.1002/advs.202203796) | [Link](https://github.com/smiles724/ProtMD) |
 | 2023 | Protein representation learning by geometric structure pretraining (GearNet) | ICLR 2023 | [Link](https://openreview.net/forum?id=to3qCB3tOh9) | [Link](https://github.com/DeepGraphLearning/GearNet) |
 
 
@@ -95,8 +96,8 @@
 | 2022 | DeepREAL: a deep learning powered multi-scale modeling framework for predicting out-of-distribution ligand-induced GPCR activity | Bioinformatics | [Link](10.1093/bioinformatics/btac154) | [Link](https://github.com/XieResearchGroup/DeepREAL) |
 | 2022 | MGraphDTA: deep multiscale graph neural network for explainable drug–target binding affinity prediction | Chem Sci | [Link](10.1039/d1sc05180f) | [Link](https://github.com/guaguabujianle/MGraphDTA) |
 | 2022 | BridgeDPI: a novel Graph Neural Network for predicting drug–protein interactions | Bioinformatics | [Link](10.1093/bioinformatics/btac155) | [Link](https://github.com/SenseTime-Knowledge-Mining/BridgeDPI) |
-| 2022 | Structure-Aware Multimodal Deep Learning for Drug–Protein Interaction Prediction | JCIM | [Link](10.1021/acs.jcim.2c00060) | [Link](https://github.com/biomed-AI/STAMP-DPI) |
-| 2022 | TransDTI: Transformer-Based Language Models for Estimating DTIs and Building a Drug Recommendation Workflow | ACS Omega | [Link](10.1021/acsomega.1c05203) | [Link](https://github.com/TeamSundar/transDTI) |
+| 2022 | Structure-aware multimodal deep learning for drug–protein interaction prediction (STAMP-DPI) | JCIM | [Link](10.1021/acs.jcim.2c00060) | [Link](https://github.com/biomed-AI/STAMP-DPI) |
+| 2022 | TransDTI: transformer-based language models for estimating DTIs and building a drug recommendation workflow | ACS Omega | [Link](10.1021/acsomega.1c05203) | [Link](https://github.com/TeamSundar/transDTI) |
 | 2022 | AttentionSiteDTI: an interpretable graph-based model for drug-target interaction prediction using NLP sentence-level relation classification | Brief Bioinform | [Link](10.1093/bib/bbac272) | [Link](https://github.com/yazdanimehdi/AttentionSiteDTI) |
 | 2022 | CoaDTI: multi-modal co-attention based framework for drug-target interaction annotation | Brief Bioinform | [Link](10.1093/bib/bbac446) | [Link](https://github.com/Layne-Huang/CoaDTI) |
 | 2022 | Improved compound-protein interaction site and binding affinity prediction using self-supervised protein embeddings | BMC Bioinformatics | [Link](10.1186/s12859-022-05107-w) | [Link](https://github.com/Jwoods14/SPE-MONN) |
@@ -140,7 +141,7 @@
 #### Generation
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
-| 2020 | Deep Generative Models for 3D Linker Design (DeLinker) | JCIM | [Link](10.1021/acs.jcim.9b01120) | [Link](https://github.com/oxpig/DeLinker) |
+| 2020 | Deep generative models for 3D linker design (DeLinker) | JCIM | [Link](10.1021/acs.jcim.9b01120) | [Link](https://github.com/oxpig/DeLinker) |
 | 2021 | Deep generative design with 3D pharmacophoric constraints (DEVELOP）| Chem Sci | [Link](10.1039/d1sc02436a) | [Link](https://github.com/oxpig/DEVELOP) |
 
 
