@@ -1,6 +1,7 @@
 # Awesome-AIDD
 
 - [Review](#Review)
+- [Database](#Database)
 - [Representations for Small Molecules](#Representations-for-Small-Molecules)
 - [Representations for Proteins](#Representations-for-Proteins)
   - [Protein Language Models (PLMs)](#Protein-Language-Models-plms)
@@ -19,6 +20,7 @@
   - [PROTAC](#PROTAC)
     - [Generation](#Generation)
 - [Antibody](#Antibody)
+- [RNA](#RNA)
 - [Machine Learning Algorithms](#Machine-Learning-Algorithms)
   - [Uncertainty](#Uncertainty)
 
@@ -27,6 +29,15 @@
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2023 | Advancing targeted protein degradation via multiomics profiling and artificial intelligence | JACS | [Link](10.1021/jacs.2c11098) | - |
+
+
+## Database
+| Year | Title | Journal | Paper | Website |
+| --- | --- | --- | --- | --- |
+| 2022 | Therapeutic target database update 2022: facilitating drug discovery with enriched comparative data of targeted agents (TTD) | NAR | [Link](10.1093/nar/gkab953) | [Link](https://idrblab.org/ttd/) |
+| 2022 | VARIDT 2.0: structural variability of drug transporter | NAR | [Link](10.1093/nar/gkab1013) | [Link](https://idrblab.org/varidt/) |
+| 2023 | DrugMAP: molecular atlas and pharma-information of all drugs | NAR | [Link](10.1093/nar/gkac813) | [Link](https://idrblab.org/drugmap/) |
+| 2023 | DRESIS: the first comprehensive landscape of drug resistance information | NAR | [Link](10.1093/nar/gkac812) | [Link](https://idrblab.org/dresis) |
 
 
 ## Representations for Small Molecules
@@ -148,7 +159,13 @@
 ## Antibody
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
-| 2021 | Protein design and variant prediction using autoregressive generative models | Nat Commun | [Link](https://doi.org/10.1038/s41467-021-22732-w) | [Link1](https://github.com/facebookresearch/esm](https://github.com/debbiemarkslab/SeqDesign)) [Link2](https://doi.org/10.5281/zenodo.4606785) |
+| 2021 | Protein design and variant prediction using autoregressive generative models | Nat Commun | [Link](https://doi.org/10.1038/s41467-021-22732-w) | [Link1](https://github.com/debbiemarkslab/SeqDesign)) [Link2](https://doi.org/10.5281/zenodo.4606785) |
+
+
+## RNA
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2023 | RNAincoder: a deep learning-based encoder for RNA and RNA-associated interaction | NAR | [Link](doi.org/10.1093/nar/gkad404) | [Link](https://idrblab.org/rnaincoder/) |
 
 
 ## Machine Learning Algorithms
