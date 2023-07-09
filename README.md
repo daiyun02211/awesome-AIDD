@@ -14,6 +14,7 @@
   - [Structure Based (GNN)](#Structure-Based-GNN)
   - [Deep Learning for Docking](#Deep-Learning-for-Docking)
 - [Protein-protein Interaction (PPI)](#Protein-protein-Interaction-ppi)
+- [Molecular Property Prediction](#Molecular-Property-Prediction)
 - [De Novo Molecule Design](#De-Novo-Molecule-Design)
   - [Protein](#Protein)
 - [Targeted Protein Degradation](#Targeted-Protein-Degradation)
@@ -35,6 +36,7 @@
 | Year | Title | Journal | Paper | Website |
 | --- | --- | --- | --- | --- |
 | 2022 | Therapeutic target database update 2022: facilitating drug discovery with enriched comparative data of targeted agents (TTD) | NAR | [Link](10.1093/nar/gkab953) | [Link](https://idrblab.org/ttd/) |
+| 2022 | NPCDR: natural product-based drug combination and its disease-specific molecular regulation | NAR | [Link](10.1093/nar/gkab913) | [Link](https://idrblab.org/npcdr/) |
 | 2022 | VARIDT 2.0: structural variability of drug transporter | NAR | [Link](10.1093/nar/gkab1013) | [Link](https://idrblab.org/varidt/) |
 | 2023 | DrugMAP: molecular atlas and pharma-information of all drugs | NAR | [Link](10.1093/nar/gkac813) | [Link](https://idrblab.org/drugmap/) |
 | 2023 | DRESIS: the first comprehensive landscape of drug resistance information | NAR | [Link](10.1093/nar/gkac812) | [Link](https://idrblab.org/dresis) |
@@ -63,6 +65,7 @@
 ### Learning from Protein Structures
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
+| 2017 | TopologyNet: Topology based deep convolutional and multi-task neural networks for biomolecular property predictions | PLoS Comput Biol | [Link](10.1371/journal.pcbi.1005690) | - |
 | 2019 | Generative models for graph-based protein design | NeurIPS 2019 | [Link](https://papers.nips.cc/paper_files/paper/2019/hash/f3a4ff4839c56a5f460c88cce3666a2b-Abstract.html) | [Link](https://github.com/jingraham/neurips19-graph-protein-design) |
 | 2021 | Learning from protein structure with geometric vector perceptrons (GVP) | ICLR 2021 | [Link](https://openreview.net/forum?id=1YLJDvSx6J4) | [Link](https://github.com/drorlab/gvp) |
 | 2022 | Learning inverse folding from millions of predicted structures (ESM-IF1) | ICML 2022 | [Link](https://proceedings.mlr.press/v162/hsu22a.html) | [Link](https://github.com/facebookresearch/esm) |
@@ -125,19 +128,41 @@
 | 2019 | OnionNet: a multiple-layer intermolecular-contact-based convolutional neural network for protein–ligand binding affinity prediction | ACS Omega | [Link](doi.org/10.1021/acsomega.9b01997) | [Link](http://github.com/zhenglz/onionnet/) |
 | 2020 | RosENet: improving binding affinity prediction by leveraging molecular mechanics energies with an ensemble of 3D convolutional neural networks | JCIM | [Link](10.1021/acs.jcim.0c00075) | [Link](https://github.com/DS3Lab/RosENet/tree/master) |
 | 2020 | AK-Score: accurate protein-ligand binding affinity prediction using an ensemble of 3D-convolutional neural networks | Int J Mol Sci | [Link](10.3390/ijms21228424) | - |
+| 2021 | Virtual Screening with Gnina 1.0 | Molecules | [Link](10.3390/molecules26237369) | - |
 ### Structure Based (GNN)
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
+| 2018 | PotentialNet for molecular property prediction | ACS Cent Sci | [Link](10.1021/acscentsci.8b00507) | - |
+| 2019 | Graph convolutional neural networks for predicting drug-target interactions | JCIM | [Link](10.1021/acs.jcim.9b00628) | - |
+| 2019 | Predicting drug−target interaction using a novel graph neural network with 3D structure-embedded graph representation | JCIM | [Link](10.1021/acs.jcim.9b00387) | [Link](https://github.com/jaechanglim/GNN_DTI) |
+### Latent Biases
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2021 | Exploration and augmentation of pharmacological space via adversarial auto-encoder model for facilitating kinase-centric drug development | J Cheminform | [Link](10.1186/s13321-021-00574-4) | [Link](http://github.com/xybai-dev/EPA) |
+| 2022 | On the choice of active site sequences for kinase-ligand affinity prediction | JCIM | [Link](10.1021/acs.jcim.2c00840) | [Link](https://github.com/PaccMann/paccmann_kinase_binding_residues) |
+| 2023 | Latent biases in machine learning models for predicting binding affinities using popular data sets | ACS Omega | [Link](10.1021/acsomega.2c06781) | [Link](https://github.com/devalab/Protein-Ligand-DatasetBias) |
 ### Deep Learning for Docking
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2020 | Combining docking pose rank and structure with deep learning improves protein–ligand binding mode prediction over a baseline docking approach | JCIM | [Link](10.1021/acs.jcim.9b00927) | - |
+| 2021 | Learning protein-ligand binding affinity with atomic environment vectors | J Cheminform | [Link](10.1186/s13321-021-00536-w) | [Link1](https://github.com/bigginlab/aescore) [Link2](doi.org/10.5281/zenodo.4155365) |
 | 2023 | AQDnet: deep neural network for protein–ligand docking simulation | ACS Omega | [Link](doi.org/10.1021/acsomega.3c02411) | [Link](https://github.com/koji11235/AQDnet) |
+### Link Prediction
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2021 | DTi2Vec: drug–target interaction prediction using network embedding and ensemble learning | J Cheminform | [Link](10.1186/s13321-021-00552-w) | [Link](https://github.com/MahaThafar/DTi2Vec) |
+
 
 ## Protein-protein Interaction (PPI)
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2021 | Large-scale discovery of protein interactions at residue resolution using co-evolution calculated from genomic sequences | Nat Commun | [Link](https://doi.org/10.1038/s41467-021-21636-z) | [Link](https://github.com/debbiemarkslab/EVcouplings) |
+
+
+## Molecular Property Prediction
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2021 | Chemical toxicity prediction based on semi-supervised learning and graph convolutional neural network | J Cheminform | [Link](10.1186/s13321-021-00570-8) | [Link](https://github.com/chen709847237/SSL-GCN) |
 
 
 ## De Novo Molecule Design
@@ -154,6 +179,7 @@
 | --- | --- | --- | --- | --- |
 | 2020 | Deep generative models for 3D linker design (DeLinker) | JCIM | [Link](10.1021/acs.jcim.9b01120) | [Link](https://github.com/oxpig/DeLinker) |
 | 2021 | Deep generative design with 3D pharmacophoric constraints (DEVELOP）| Chem Sci | [Link](10.1039/d1sc02436a) | [Link](https://github.com/oxpig/DEVELOP) |
+| 2022 | De novo PROTAC design using graph-based deep generative models | arXiv | [Link](https://arxiv.org/abs/2211.02660) | [Link1](https://github.com/divnori/Protac-Design) [Link2](https://zenodo.org/record/7278277) |
 
 
 ## Antibody
@@ -173,7 +199,7 @@
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2020 | Leveraging uncertainty in machine learning accelerates biological discovery and design | Cell Syst | [Link](10.1016/j.cels.2020.09.007) | [Link](https://github.com/brianhie/uncertainty) |
-
+| 2021 | A hybrid framework for improving uncertainty quantification in deep learning-based QSAR regression modeling | J Cheminform | [Link](10.1186/s13321-021-00551-x) | [Link](https://github.com/wangdingyan/HybridUQ) |
 
 # Related Awesome
 * [awesome-protein-representation-learning](https://github.com/LirongWu/awesome-protein-representation-learning)
