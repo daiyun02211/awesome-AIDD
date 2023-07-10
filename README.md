@@ -12,7 +12,9 @@
   - [Protein Sequence Based](#Protein-Sequence-Based)
   - [Structure Based (CNN)](#Structure-Based-CNN)
   - [Structure Based (GNN)](#Structure-Based-GNN)
+  - [Latent Biases](#Latent-Biases)
   - [Deep Learning for Docking](#Deep-Learning-for-Docking)
+  - [Link Prediction](#Link-Prediction)
 - [Protein-protein Interaction (PPI)](#Protein-protein-Interaction-ppi)
 - [Molecular Property Prediction](#Molecular-Property-Prediction)
 - [De Novo Molecule Design](#De-Novo-Molecule-Design)
@@ -135,6 +137,8 @@
 | 2018 | PotentialNet for molecular property prediction | ACS Cent Sci | [Link](10.1021/acscentsci.8b00507) | - |
 | 2019 | Graph convolutional neural networks for predicting drug-target interactions | JCIM | [Link](10.1021/acs.jcim.9b00628) | - |
 | 2019 | Predicting drug−target interaction using a novel graph neural network with 3D structure-embedded graph representation | JCIM | [Link](10.1021/acs.jcim.9b00387) | [Link](https://github.com/jaechanglim/GNN_DTI) |
+| 2022 | PIGNet: a physics-informed deep learning model toward generalized drug-target interaction predictions | Chem Sci | [Link](10.1039/d1sc06946b) | [Link](https://github.com/ACE-KAIST/PIGNet) |
+
 ### Latent Biases
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
