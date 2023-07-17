@@ -12,8 +12,8 @@
   - [Protein Sequence Based](#Protein-Sequence-Based)
   - [Structure Based (CNN)](#Structure-Based-CNN)
   - [Structure Based (GNN)](#Structure-Based-GNN)
+  - [Docking Based](#Docking-Based)
   - [Latent Biases](#Latent-Biases)
-  - [Deep Learning for Docking](#Deep-Learning-for-Docking)
   - [Link Prediction](#Link-Prediction)
 - [Protein-protein Interaction (PPI)](#Protein-protein-Interaction-ppi)
 - [Molecular Property Prediction](#Molecular-Property-Prediction)
@@ -31,7 +31,7 @@
 ## Review
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
-| 2023 | Advancing targeted protein degradation via multiomics profiling and artificial intelligence | JACS | [Link](10.1021/jacs.2c11098) | - |
+| 2023 | Advancing targeted protein degradation via multiomics profiling and artificial intelligence | JACS | [Link](https://doi.org/10.1021/jacs.2c11098) | - |
 
 
 ## Database
@@ -131,7 +131,8 @@
 | 2020 | RosENet: improving binding affinity prediction by leveraging molecular mechanics energies with an ensemble of 3D convolutional neural networks | JCIM | [Link](https://doi.org/10.1021/acs.jcim.0c00075) | [Link](https://github.com/DS3Lab/RosENet/tree/master) |
 | 2020 | AK-Score: accurate protein-ligand binding affinity prediction using an ensemble of 3D-convolutional neural networks | Int J Mol Sci | [Link](https://doi.org/10.3390/ijms21228424) | - |
 | 2021 | Virtual Screening with Gnina 1.0 | Molecules | [Link](https://doi.org/10.3390/molecules26237369) | - |
-| 2021 | Improved Protein–Ligand Binding Affinity Prediction with Structure-Based Deep Fusion Inference | JCIM | [Link](https://doi.org/10.1021/acs.jcim.0c01306) | [Link](https://github.com/llnl/fast.) [Link](ftp://gdobioinformatics.ucllnl.org/fast/pdbbind2016_model_checkpoints/) |
+| 2021 | Improved protein–ligand binding affinity prediction with structure-based deep fusion inference | JCIM | [Link](https://doi.org/10.1021/acs.jcim.0c01306) | [Link1](https://github.com/llnl/fast) [Link2](ftp://gdobioinformatics.ucllnl.org/fast/pdbbind2016_model_checkpoints/) |
+| 2023 | HAC-Net: a hybrid attention-based convolutional neural network for highly accurate protein–ligand binding affinity prediction | JCIM | [Link](https://doi.org/10.1021/acs.jcim.3c00251) | [Link](https://github.com/gregory-kyro/HAC-Net/) |
 ### Structure Based (GNN)
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
@@ -139,19 +140,18 @@
 | 2019 | Graph convolutional neural networks for predicting drug-target interactions | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00628) | - |
 | 2019 | Predicting drug−target interaction using a novel graph neural network with 3D structure-embedded graph representation | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00387) | [Link](https://github.com/jaechanglim/GNN_DTI) |
 | 2022 | PIGNet: a physics-informed deep learning model toward generalized drug-target interaction predictions | Chem Sci | [Link](https://doi.org/10.1039/d1sc06946b) | [Link](https://github.com/ACE-KAIST/PIGNet) |
-
+### Docking Based
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2020 | Combining docking pose rank and structure with deep learning improves protein–ligand binding mode prediction over a baseline docking approach | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00927) | - |
+| 2021 | Learning protein-ligand binding affinity with atomic environment vectors | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00536-w) | [Link1](https://github.com/bigginlab/aescore) [Link2](doi.org/10.5281/zenodo.4155365) |
+| 2023 | AQDnet: deep neural network for protein–ligand docking simulation | ACS Omega | [Link](https://doi.org/10.1021/acsomega.3c02411) | [Link](https://github.com/koji11235/AQDnet) |
 ### Latent Biases
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2021 | Exploration and augmentation of pharmacological space via adversarial auto-encoder model for facilitating kinase-centric drug development | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00574-4) | [Link](http://github.com/xybai-dev/EPA) |
 | 2022 | On the choice of active site sequences for kinase-ligand affinity prediction | JCIM | [Link](https://doi.org/10.1021/acs.jcim.2c00840) | [Link](https://github.com/PaccMann/paccmann_kinase_binding_residues) |
 | 2023 | Latent biases in machine learning models for predicting binding affinities using popular data sets | ACS Omega | [Link](https://doi.org/10.1021/acsomega.2c06781) | [Link](https://github.com/devalab/Protein-Ligand-DatasetBias) |
-### Deep Learning for Docking
-| Year | Title | Journal | Paper | Code |
-| --- | --- | --- | --- | --- |
-| 2020 | Combining docking pose rank and structure with deep learning improves protein–ligand binding mode prediction over a baseline docking approach | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00927) | - |
-| 2021 | Learning protein-ligand binding affinity with atomic environment vectors | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00536-w) | [Link1](https://github.com/bigginlab/aescore) [Link2](doi.org/10.5281/zenodo.4155365) |
-| 2023 | AQDnet: deep neural network for protein–ligand docking simulation | ACS Omega | [Link](https://doi.org/10.1021/acsomega.3c02411) | [Link](https://github.com/koji11235/AQDnet) |
 ### Link Prediction
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
@@ -190,7 +190,7 @@
 ## Antibody
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
-| 2021 | Protein design and variant prediction using autoregressive generative models | Nat Commun | [Link](https://doi.org/10.1038/s41467-021-22732-w) | [Link1](https://github.com/debbiemarkslab/SeqDesign)) [Link2](https://doi.org/10.5281/zenodo.4606785) |
+| 2021 | Protein design and variant prediction using autoregressive generative models | Nat Commun | [Link](https://doi.org/10.1038/s41467-021-22732-w) | [Link1](https://github.com/debbiemarkslab/SeqDesign) [Link2](https://doi.org/10.5281/zenodo.4606785) |
 
 
 ## RNA
