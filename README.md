@@ -2,11 +2,11 @@
 
 - [Review](#Review)
 - [Database](#Database)
-- [Representations for Small Molecules](#Representations-for-Small-Molecules)
+- [Representations for Small Molecules](#Representations-for-Molecules)
 - [Representations for Proteins](#Representations-for-Proteins)
   - [Protein Language Models (PLMs)](#Protein-Language-Models-plms)
   - [Learning from Protein Structures](#Learning-from-Protein-Structures)  
-- [Protein Structure Prediction](#Protein-Structure-Prediction)
+  - [Protein Structure Prediction](#Protein-Structure-Prediction)
 - [Effects of Mutations](#Effects-of-Mutations)
 - [Compound-protein Interaction (CPI)](#Compound-protein-Interaction-cpi)
   - [Protein Sequence Based](#Protein-Sequence-Based)
@@ -44,11 +44,11 @@
 | 2023 | DRESIS: the first comprehensive landscape of drug resistance information | NAR | [Link](https://doi.org/10.1093/nar/gkac812) | [Link](https://idrblab.org/dresis) |
 
 
-## Representations for Small Molecules
+## Representations for Molecules
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2021 | Out-of-the-box deep learning prediction of pharmaceutical properties by broadly learned knowledge-based molecular representations | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-021-00301-6) | [link](https://github.com/shenwanxiang/bidd-molmap) |
-
+| 2023 | Uni-Mol: a universal 3D molecular representation learning framework | ICLR 2023 | [Link](https://openreview.net/forum?id=6K2RM6wVqKu) | [link](https://github.com/dptech-corp/Uni-Mol) |
 
 ## Representations for Proteins 
 ### [awesome-protein-representation-learning](https://github.com/LirongWu/awesome-protein-representation-learning) is highly recommanded
@@ -73,9 +73,7 @@
 | 2022 | Learning inverse folding from millions of predicted structures (ESM-IF1) | ICML 2022 | [Link](https://proceedings.mlr.press/v162/hsu22a.html) | [Link](https://github.com/facebookresearch/esm) |
 | 2022 | Pre-training of equivariant graph matching networks with conformation flexibility for drug binding (ProtMD) | Adv Sci (Weinh) | [Link](https://doi.org/10.1002/advs.202203796) | [Link](https://github.com/smiles724/ProtMD) |
 | 2023 | Protein representation learning by geometric structure pretraining (GearNet) | ICLR 2023 | [Link](https://openreview.net/forum?id=to3qCB3tOh9) | [Link](https://github.com/DeepGraphLearning/GearNet) |
-
-
-## Protein Structure Prediction
+### Protein Structure Prediction
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2023 | Evolutionary-scale prediction of atomic-level protein structure with a language model (ESM-2, ESMFold) | Science | [Link](https://doi.org/10.1126/science.ade2574) | [Link1](https://github.com/facebookresearch/esm) [Link2](https://zenodo.org/record/7566741) |
@@ -168,6 +166,7 @@
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2021 | Chemical toxicity prediction based on semi-supervised learning and graph convolutional neural network | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00570-8) | [Link](https://github.com/chen709847237/SSL-GCN) |
+| 2023 | Uni-QSAR: an auto-ML tool for molecular property prediction | arXiv | [Link](https://arxiv.org/abs/2304.12239) | - |
 
 
 ## De Novo Molecule Design
