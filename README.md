@@ -149,7 +149,10 @@
 | --- | --- | --- | --- | --- |
 | 2021 | Exploration and augmentation of pharmacological space via adversarial auto-encoder model for facilitating kinase-centric drug development | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00574-4) | [Link](http://github.com/xybai-dev/EPA) |
 | 2022 | On the choice of active site sequences for kinase-ligand affinity prediction | JCIM | [Link](https://doi.org/10.1021/acs.jcim.2c00840) | [Link](https://github.com/PaccMann/paccmann_kinase_binding_residues) |
+| 2022 | Bias in the Benchmark: Systematic experimental errors in bioactivity databases confound multi-task and meta-learning algorithms | ICML-AI4Science | [Link](https://openreview.net/forum?id=Gc5oq8sr6A3) | - |
 | 2023 | Latent biases in machine learning models for predicting binding affinities using popular data sets | ACS Omega | [Link](https://doi.org/10.1021/acsomega.2c06781) | [Link](https://github.com/devalab/Protein-Ligand-DatasetBias) |
+
+
 ### Link Prediction
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
@@ -204,6 +207,8 @@
 | --- | --- | --- | --- | --- |
 | 2020 | Leveraging uncertainty in machine learning accelerates biological discovery and design | Cell Syst | [Link](https://doi.org/10.1016/j.cels.2020.09.007) | [Link](https://github.com/brianhie/uncertainty) |
 | 2021 | A hybrid framework for improving uncertainty quantification in deep learning-based QSAR regression modeling | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00551-x) | [Link](https://github.com/wangdingyan/HybridUQ) |
+| 2023 | Drug discovery under covariate shift with domain-informed prior distributions over functions | ICML 2023 | [Link](https://openreview.net/forum?id=BbZVFj0QPv) | [Link](https://github.com/leojklarner/Q-SAVI) |
+
 
 # Related Awesome
 * [awesome-protein-representation-learning](https://github.com/LirongWu/awesome-protein-representation-learning)
