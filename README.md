@@ -2,7 +2,7 @@
 
 - [Review](#Review)
 - [Database](#Database)
-- [Representations for Small Molecules](#Representations-for-Molecules)
+- [Representations for Molecules](#Representations-for-Molecules)
 - [Representations for Proteins](#Representations-for-Proteins)
   - [Protein Language Models (PLMs)](#Protein-Language-Models-plms)
   - [Learning from Protein Structures](#Learning-from-Protein-Structures)  
@@ -90,6 +90,7 @@
 | 2021 | Protein design and variant prediction using autoregressive generative models | Nat Commun | [Link](https://doi.org/10.1038/s41467-021-22732-w) | [Link1](https://github.com/facebookresearch/esm](https://github.com/debbiemarkslab/SeqDesign)) [Link2](https://doi.org/10.5281/zenodo.4606785) |
 | 2021 | ECNet is an evolutionary context-integrated deep learning framework for protein engineering | Nat Commun | [Link](https://doi.org/10.1038/s41467-021-25976-8) | [Link1](https://github.com/luoyunan/ECNet) [Link2](https://doi.org/10.5281/zenodo.5294461) |
 | 2021 | Language models enable zero-shot prediction of the effects of mutations on protein function (ESM-1v) | NeurIPS 2021 | [Link](https://openreview.net/forum?id=uXc42E9ZPFs) | [Link](https://github.com/facebookresearch/esm) |
+| 2023 | Mega-scale experimental analysis of protein folding stability in biology and design | Nature | [Link](https://doi.org/10.1038/s41586-023-06328-6) | [Link1](https://doi.org/10.5281/zenodo.7992926) [Link2](https://github.com/Rocklin-Lab/cdna-display-proteolysis-pipeline) |
 
 
 ## Compound-protein Interaction (CPI)
