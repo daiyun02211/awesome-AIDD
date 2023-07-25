@@ -152,8 +152,6 @@
 | 2022 | On the choice of active site sequences for kinase-ligand affinity prediction | JCIM | [Link](https://doi.org/10.1021/acs.jcim.2c00840) | [Link](https://github.com/PaccMann/paccmann_kinase_binding_residues) |
 | 2022 | Bias in the Benchmark: Systematic experimental errors in bioactivity databases confound multi-task and meta-learning algorithms | ICML-AI4Science | [Link](https://openreview.net/forum?id=Gc5oq8sr6A3) | - |
 | 2023 | Latent biases in machine learning models for predicting binding affinities using popular data sets | ACS Omega | [Link](https://doi.org/10.1021/acsomega.2c06781) | [Link](https://github.com/devalab/Protein-Ligand-DatasetBias) |
-
-
 ### Link Prediction
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
@@ -173,11 +171,20 @@
 | 2023 | Uni-QSAR: an auto-ML tool for molecular property prediction | arXiv | [Link](https://arxiv.org/abs/2304.12239) | - |
 
 
+## Frequent Hitters
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2019 | Computational advances in combating colloidal aggregation in drug discovery | Nat Chem | [Link](https://doi.org/10.1038/s41557-019-0234-9) | - |
+| 2019 | Structural analysis and identification of colloidal aggregators in drug discovery | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00541) | [Link](https://admet.scbdd.com/ChemAGG/index/) |
+| 2020 | Frequent hitters: nuisance artifacts in high-throughput screening | Drug Discov Today | [Link](https://doi.org/10.1016/j.drudis.2020.01.014) | - |
+| 2021 | Computational prediction of frequent hitters in target-based and cell-based assays | Artif Intell Life Sci | [Link](https://doi.org/10.1016/j.ailsci.2021.100007) | [Link](https://nerdd.univie.ac.at/hitdexter3) |
+
+
 ## De Novo Molecule Design
 ### Protein
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
-| 2023 | Large language models generate functional protein sequences across diverse families (ProGen) | Nat Biotechnol | [Link](https://doi.org/10.1038/s41587-022-01618-2) | [Link](https://github.com/debbiemarkslab/EVcouplings](https://github.com/salesforce/progen)) [Link2](https://zenodo.org/record/7296780) |
+| 2023 | Large language models generate functional protein sequences across diverse families (ProGen) | Nat Biotechnol | [Link](https://doi.org/10.1038/s41587-022-01618-2) | [Link1](https://github.com/salesforce/progen) [Link2](https://zenodo.org/record/7296780) |
 
 
 ## Targeted Protein Degradation
