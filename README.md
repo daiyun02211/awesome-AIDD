@@ -1,7 +1,9 @@
 # Awesome-AIDD
 
 - [Review](#Review)
-- [Database](#Database)
+- [Data](#Data)
+  - [Databases](#Databases)
+  - [Data Sets](#Data-Sets)
 - [Representations for Molecules](#Representations-for-Molecules)
 - [Representations for Proteins](#Representations-for-Proteins)
   - [Protein Language Models (PLMs)](#Protein-Language-Models-plms)
@@ -17,6 +19,8 @@
   - [Link Prediction](#Link-Prediction)
 - [Protein-protein Interaction (PPI)](#Protein-protein-Interaction-ppi)
 - [Molecular Property Prediction](#Molecular-Property-Prediction)
+  - [ADMET][#ADMET]
+  - [Frequent Hitters](#Frequent-Hitters)
 - [De Novo Molecule Design](#De-Novo-Molecule-Design)
   - [Protein](#Protein)
 - [Targeted Protein Degradation](#Targeted-Protein-Degradation)
@@ -34,7 +38,8 @@
 | 2023 | Advancing targeted protein degradation via multiomics profiling and artificial intelligence | JACS | [Link](https://doi.org/10.1021/jacs.2c11098) | - |
 
 
-## Database
+## Data
+### Databases
 | Year | Title | Journal | Paper | Website |
 | --- | --- | --- | --- | --- |
 | 2022 | Therapeutic target database update 2022: facilitating drug discovery with enriched comparative data of targeted agents (TTD) | NAR | [Link](https://doi.org/10.1093/nar/gkab953) | [Link](https://idrblab.org/ttd/) |
@@ -42,6 +47,10 @@
 | 2022 | VARIDT 2.0: structural variability of drug transporter | NAR | [Link](https://doi.org/10.1093/nar/gkab1013) | [Link](https://idrblab.org/varidt/) |
 | 2023 | DrugMAP: molecular atlas and pharma-information of all drugs | NAR | [Link](https://doi.org/10.1093/nar/gkac813) | [Link](https://idrblab.org/drugmap/) |
 | 2023 | DRESIS: the first comprehensive landscape of drug resistance information | NAR | [Link](https://doi.org/10.1093/nar/gkac812) | [Link](https://idrblab.org/dresis) |
+### Data Sets
+| Year | Title | Journal | Paper | Website |
+| --- | --- | --- | --- | --- |
+| 2009 | Maximum unbiased validation (MUV) data sets for virtual screening based on PubChem bioactivity data | JCIM | [Link](https://doi.org/10.1021/ci8002649) | [Link](https://www.tu-braunschweig.de/en/pharmchem/forschung/baumann/translate-to-english-muv) |
 
 
 ## Representations for Molecules
@@ -93,6 +102,17 @@
 | 2023 | Mega-scale experimental analysis of protein folding stability in biology and design | Nature | [Link](https://doi.org/10.1038/s41586-023-06328-6) | [Link1](https://doi.org/10.5281/zenodo.7992926) [Link2](https://github.com/Rocklin-Lab/cdna-display-proteolysis-pipeline) |
 
 
+## Binding Site Prediction
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2009 | Fpocket: an open source platform for ligand pocket detection | BMC Bioinformatics | [Link](https://doi.org/10.1186/1471-2105-10-168) | [Link](https://github.com/Discngine/fpocket) |
+| 2013 | APoc: large-scale identification of similar protein pockets | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btt024) | [Link](https://anaconda.org/bioconda/apoc) |
+| 2020 | Spatiotemporal identification of druggable binding sites using deep learning | Commun Biol | [Link](https://doi.org/10.1038/s42003-020-01350-0) | [Link1](https://github.com/i-Molecule/bitenet) [Link2](https://sites.skoltech.ru/imolecule/tools/bitenet)|
+| 2021 | What features of ligands are relevant to the opening of cryptic pockets in drug targets? | Informatics | [Link](https://doi.org/10.3390/informatics9010008) | [Link](https://ochem.eu/model/913) |
+| 2022 | PASSer2.0: accurate prediction of protein allosteric sites through automated machine learning | Front Mol Biosci | [Link](https://doi.org/10.3389/fmolb.2022.879251) | [Link](https://passer.smu.edu/) |
+| 2023 | PASSer: fast and accurate prediction of protein allosteric sites | NAR | [Link](https://doi.org/10.1093/nar/gkad303) | [Link](https://passer.smu.edu/) |
+
+
 ## Compound-protein Interaction (CPI)
 ### Protein Sequence Based
 | Year | Title | Journal | Paper | Code |
@@ -118,6 +138,7 @@
 | 2022 | Improved compound-protein interaction site and binding affinity prediction using self-supervised protein embeddings | BMC Bioinformatics | [Link](https://doi.org/10.1186/s12859-022-05107-w) | [Link](https://github.com/Jwoods14/SPE-MONN) |
 | 2023 | Improving the generalizability of protein-ligand binding predictions with AI-Bind | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-37572-z) | [Link1](https://github.com/ChatterjeeAyan/AI-Bind) [Link2](https://doi.org/10.5281/zenodo.7730755)|
 | 2023 | Interpretable bilinear attention network with domain adaptation improves drug–target prediction (DrugBAN) | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-022-00605-1) | [Link1](https://github.com/peizhenbai/DrugBAN) [Link2](https://doi.org/10.24433/CO.3558316.v1)|
+| 2023 | Sequence-based drug design as a concept in computational drug design (TransformerCPI 2.0)| Nat Commun | [Link](https://doi.org/10.1038/s41467-023-39856-w) | [Link1](https://github.com/lifanchen-simm/transformerCPI2.0) [Link2](https://doi.org/10.5281/zenodo.7993486)|
 ### Structure Based (CNN)
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
@@ -165,19 +186,19 @@
 
 
 ## Molecular Property Prediction
+### ADMET
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2021 | Chemical toxicity prediction based on semi-supervised learning and graph convolutional neural network | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00570-8) | [Link](https://github.com/chen709847237/SSL-GCN) |
 | 2023 | Uni-QSAR: an auto-ML tool for molecular property prediction | arXiv | [Link](https://arxiv.org/abs/2304.12239) | - |
-
-
-## Frequent Hitters
+### Frequent Hitters
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2019 | Computational advances in combating colloidal aggregation in drug discovery | Nat Chem | [Link](https://doi.org/10.1038/s41557-019-0234-9) | - |
 | 2019 | Structural analysis and identification of colloidal aggregators in drug discovery | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00541) | [Link](https://admet.scbdd.com/ChemAGG/index/) |
 | 2020 | Frequent hitters: nuisance artifacts in high-throughput screening | Drug Discov Today | [Link](https://doi.org/10.1016/j.drudis.2020.01.014) | - |
 | 2021 | Computational prediction of frequent hitters in target-based and cell-based assays | Artif Intell Life Sci | [Link](https://doi.org/10.1016/j.ailsci.2021.100007) | [Link](https://nerdd.univie.ac.at/hitdexter3) |
+| 2021 | Combating small-molecule aggregation with machine learning | Cell Rep Phys Sci | [Link](https://doi.org/10.1016/j.xcrp.2021.100573) | [Link](https://github.com/tcorodrigues/DeepSCAMs) |
 
 
 ## De Novo Molecule Design
