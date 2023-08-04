@@ -19,7 +19,7 @@
   - [Link Prediction](#Link-Prediction)
 - [Protein-protein Interaction (PPI)](#Protein-protein-Interaction-ppi)
 - [Molecular Property Prediction](#Molecular-Property-Prediction)
-  - [ADMET][#ADMET]
+  - [ADMET](#ADMET)
   - [Frequent Hitters](#Frequent-Hitters)
 - [De Novo Molecule Design](#De-Novo-Molecule-Design)
   - [Protein](#Protein)
