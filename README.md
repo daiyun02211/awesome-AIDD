@@ -25,6 +25,7 @@
   - [Protein](#Protein)
 - [Targeted Protein Degradation](#Targeted-Protein-Degradation)
   - [PROTAC](#PROTAC)
+    - [Docking](#Docking)
     - [Generation](#Generation)
 - [Antibody](#Antibody)
 - [RNA](#RNA)
@@ -210,6 +211,11 @@
 
 ## Targeted Protein Degradation
 ### PROTAC
+#### Docking
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2020 | PRosettaC: Rosetta based modeling of PROTAC mediated ternary complexes | JCIM | [Link](https://doi.org/10.1021/acs.jcim.0c00589) | [Link](https://prosettac.weizmann.ac.il/pacb/steps) |
+| 2023 | High accuracy prediction of PROTAC complex structures | JACS | [Link](https://doi.org/10.1021/jacs.2c09387) | - |
 #### Generation
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
