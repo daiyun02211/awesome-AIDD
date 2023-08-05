@@ -36,6 +36,7 @@
 ## Review
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
+| 2018 | Cryptic binding sites on proteins: definition, detection, and druggability | Curr Opin Chem Biol | [Link](https://doi.org/10.1016/j.cbpa.2018.05.003) | - |
 | 2023 | Advancing targeted protein degradation via multiomics profiling and artificial intelligence | JACS | [Link](https://doi.org/10.1021/jacs.2c11098) | - |
 
 
@@ -59,6 +60,7 @@
 | --- | --- | --- | --- | --- |
 | 2021 | Out-of-the-box deep learning prediction of pharmaceutical properties by broadly learned knowledge-based molecular representations | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-021-00301-6) | [link](https://github.com/shenwanxiang/bidd-molmap) |
 | 2023 | Uni-Mol: a universal 3D molecular representation learning framework | ICLR 2023 | [Link](https://openreview.net/forum?id=6K2RM6wVqKu) | [link](https://github.com/dptech-corp/Uni-Mol) |
+
 
 ## Representations for Proteins 
 ### [awesome-protein-representation-learning](https://github.com/LirongWu/awesome-protein-representation-learning) is highly recommanded
@@ -108,8 +110,11 @@
 | --- | --- | --- | --- | --- |
 | 2009 | Fpocket: an open source platform for ligand pocket detection | BMC Bioinformatics | [Link](https://doi.org/10.1186/1471-2105-10-168) | [Link](https://github.com/Discngine/fpocket) |
 | 2013 | APoc: large-scale identification of similar protein pockets | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btt024) | [Link](https://anaconda.org/bioconda/apoc) |
+| 2015 | The FTMap family of web servers for determining and characterizing ligand-binding hot spots of proteins | Nat Protoc | [Link](https://doi.org/10.1038/nprot.2015.043) | [Link](https://ftmap.bu.edu/login.php) |
+| 2016 | CryptoSite: expanding the druggable proteome by characterization and prediction of cryptic binding sites | J Mol Biol | [Link](https://doi.org/10.1016/j.jmb.2016.01.029) | [Link](https://modbase.compbio.ucsf.edu/cryptosite/) |
 | 2020 | Spatiotemporal identification of druggable binding sites using deep learning | Commun Biol | [Link](https://doi.org/10.1038/s42003-020-01350-0) | [Link1](https://github.com/i-Molecule/bitenet) [Link2](https://sites.skoltech.ru/imolecule/tools/bitenet)|
 | 2021 | What features of ligands are relevant to the opening of cryptic pockets in drug targets? | Informatics | [Link](https://doi.org/10.3390/informatics9010008) | [Link](https://ochem.eu/model/913) |
+| 2021 | Finding druggable sites in proteins using TACTICS| JCIM | [Link](https://doi.org/10.1021/acs.jcim.1c00204) | [Link](https://github.com/Albert-Lau-Lab/tactics_protein_analysis) |
 | 2022 | PASSer2.0: accurate prediction of protein allosteric sites through automated machine learning | Front Mol Biosci | [Link](https://doi.org/10.3389/fmolb.2022.879251) | [Link](https://passer.smu.edu/) |
 | 2023 | PASSer: fast and accurate prediction of protein allosteric sites | NAR | [Link](https://doi.org/10.1093/nar/gkad303) | [Link](https://passer.smu.edu/) |
 
