@@ -1,6 +1,7 @@
 # Awesome-AIDD
 
 - [Review](#Review)
+- [Roadmap](#Roadmap)
 - [Data](#Data)
   - [Databases](#Databases)
   - [Data Sets](#Data-Sets)
@@ -10,11 +11,12 @@
   - [Learning from Protein Structures](#Learning-from-Protein-Structures)  
   - [Protein Structure Prediction](#Protein-Structure-Prediction)
 - [Effects of Mutations](#Effects-of-Mutations)
+- [Binding Site Prediction](##Binding-Site-Prediction)
 - [Compound-protein Interaction (CPI)](#Compound-protein-Interaction-cpi)
   - [Protein Sequence Based](#Protein-Sequence-Based)
   - [Structure Based (CNN)](#Structure-Based-CNN)
   - [Structure Based (GNN)](#Structure-Based-GNN)
-  - [Docking Based](#Docking-Based)
+  - [Molecular Docking](#Molecular-Docking)
   - [Latent Biases](#Latent-Biases)
   - [Link Prediction](#Link-Prediction)
 - [Protein-protein Interaction (PPI)](#Protein-protein-Interaction-ppi)
@@ -37,8 +39,13 @@
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2018 | Cryptic binding sites on proteins: definition, detection, and druggability | Curr Opin Chem Biol | [Link](https://doi.org/10.1016/j.cbpa.2018.05.003) | - |
+| 2019 | Computational methods and tools for binding site recognition between proteins and small molecules: from classical geometrical approaches to modern machine learning strategies | J Comput Aided Mol Des | [Link](https://doi.org/10.1007/s10822-019-00235-7) | - |
 | 2023 | Advancing targeted protein degradation via multiomics profiling and artificial intelligence | JACS | [Link](https://doi.org/10.1021/jacs.2c11098) | - |
 
+## Roadmap
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2022 | CACHE (Critical Assessment of Computational Hit-finding Experiments): a public–private partnership benchmarking initiative to enable the development of computational methods for hit-finding | Nat Rev Chem | [Link](https://doi.org/10.1038/s41570-022-00363-z) | - |
 
 ## Data
 ### Databases
@@ -112,9 +119,11 @@
 | 2013 | APoc: large-scale identification of similar protein pockets | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btt024) | [Link](https://anaconda.org/bioconda/apoc) |
 | 2015 | The FTMap family of web servers for determining and characterizing ligand-binding hot spots of proteins | Nat Protoc | [Link](https://doi.org/10.1038/nprot.2015.043) | [Link](https://ftmap.bu.edu/login.php) |
 | 2016 | CryptoSite: expanding the druggable proteome by characterization and prediction of cryptic binding sites | J Mol Biol | [Link](https://doi.org/10.1016/j.jmb.2016.01.029) | [Link](https://modbase.compbio.ucsf.edu/cryptosite/) |
+| 2019 | Computational methods and tools for binding site recognition between proteins and small molecules: from classical geometrical approaches to modern machine learning strategies | J Comput Aided Mol Des | [Link](https://doi.org/10.1007/s10822-019-00235-7) | - |
 | 2020 | Spatiotemporal identification of druggable binding sites using deep learning | Commun Biol | [Link](https://doi.org/10.1038/s42003-020-01350-0) | [Link1](https://github.com/i-Molecule/bitenet) [Link2](https://sites.skoltech.ru/imolecule/tools/bitenet)|
 | 2021 | What features of ligands are relevant to the opening of cryptic pockets in drug targets? | Informatics | [Link](https://doi.org/10.3390/informatics9010008) | [Link](https://ochem.eu/model/913) |
 | 2021 | Finding druggable sites in proteins using TACTICS| JCIM | [Link](https://doi.org/10.1021/acs.jcim.1c00204) | [Link](https://github.com/Albert-Lau-Lab/tactics_protein_analysis) |
+| 2022 | PointSite: a point cloud segmentation tool for identification of protein ligand binding atoms| JCIM | [Link](https://doi.org/10.1021/acs.jcim.1c01512) | [Link](https://github.com/PointSite/PointSite) |
 | 2022 | PASSer2.0: accurate prediction of protein allosteric sites through automated machine learning | Front Mol Biosci | [Link](https://doi.org/10.3389/fmolb.2022.879251) | [Link](https://passer.smu.edu/) |
 | 2023 | PASSer: fast and accurate prediction of protein allosteric sites | NAR | [Link](https://doi.org/10.1093/nar/gkad303) | [Link](https://passer.smu.edu/) |
 
@@ -166,13 +175,16 @@
 | 2019 | Graph convolutional neural networks for predicting drug-target interactions | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00628) | - |
 | 2019 | Predicting drug−target interaction using a novel graph neural network with 3D structure-embedded graph representation | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00387) | [Link](https://github.com/jaechanglim/GNN_DTI) |
 | 2022 | PIGNet: a physics-informed deep learning model toward generalized drug-target interaction predictions | Chem Sci | [Link](https://doi.org/10.1039/d1sc06946b) | [Link](https://github.com/ACE-KAIST/PIGNet) |
-### Docking Based
+### Molecular Docking
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2020 | Combining docking pose rank and structure with deep learning improves protein–ligand binding mode prediction over a baseline docking approach | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00927) | - |
+| 2021 | Fast end-to-end learning on protein surfaces (dMaSIF) | CVPR 2021 | [Link](https://openaccess.thecvf.com/content/CVPR2021/papers/Sverrisson_Fast_End-to-End_Learning_on_Protein_Surfaces_CVPR_2021_paper.pdf) | [Link](https://github.com/FreyrS/dMaSIF) |
 | 2021 | Learning protein-ligand binding affinity with atomic environment vectors | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00536-w) | [Link1](https://github.com/bigginlab/aescore) [Link2](doi.org/10.5281/zenodo.4155365) |
+| 2022 | Independent SE(3)-equivariant models for end-to-end rigid protein docking (EQUIDOCK) | ICLR 2022 | [Link](https://openreview.net/forum?id=GQjaI9mLet) | [Link](https://github.com/octavian-ganea/equidock_public) |
+| 2022 | EQUIBIND: geometric deep learning for drug binding structure prediction | ICML 2022 | [Link](https://proceedings.mlr.press/v162/stark22b/stark22b.pdf) | [Link](https://github.com/HannesStark/EquiBind) |
 | 2023 | AQDnet: deep neural network for protein–ligand docking simulation | ACS Omega | [Link](https://doi.org/10.1021/acsomega.3c02411) | [Link](https://github.com/koji11235/AQDnet) |
-| 2023 | Do deep learning models really outperform traditional approaches in molecular docking? | ICLR MLDD | [Link](https://openreview.net/pdf?id=JrtHZdbGtN) | - |
+| 2023 | Do deep learning models really outperform traditional approaches in molecular docking? | ICLR 2023 MLDD | [Link](https://openreview.net/pdf?id=JrtHZdbGtN) | - |
 ### Latent Biases
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
