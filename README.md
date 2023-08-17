@@ -172,6 +172,7 @@
 | 2020 | Combining docking pose rank and structure with deep learning improves protein–ligand binding mode prediction over a baseline docking approach | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00927) | - |
 | 2021 | Learning protein-ligand binding affinity with atomic environment vectors | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00536-w) | [Link1](https://github.com/bigginlab/aescore) [Link2](doi.org/10.5281/zenodo.4155365) |
 | 2023 | AQDnet: deep neural network for protein–ligand docking simulation | ACS Omega | [Link](https://doi.org/10.1021/acsomega.3c02411) | [Link](https://github.com/koji11235/AQDnet) |
+| 2023 | Do deep learning models really outperform traditional approaches in molecular docking? | ICLR MLDD | [Link](https://openreview.net/pdf?id=JrtHZdbGtN) | - |
 ### Latent Biases
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
