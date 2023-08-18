@@ -38,8 +38,12 @@
 ## Review
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
+| 2018 | Markov State Models: from an art to a science | J Am Chem Soc | [Link](https://doi.org/10.1021/jacs.7b12191) | - |
 | 2018 | Cryptic binding sites on proteins: definition, detection, and druggability | Curr Opin Chem Biol | [Link](https://doi.org/10.1016/j.cbpa.2018.05.003) | - |
 | 2019 | Computational methods and tools for binding site recognition between proteins and small molecules: from classical geometrical approaches to modern machine learning strategies | J Comput Aided Mol Des | [Link](https://doi.org/10.1007/s10822-019-00235-7) | - |
+| 2020 | Integrated computational approaches and tools for allosteric drug discovery | Int J Mol Sci | [Link](https://doi.org/10.3390/ijms21030847) | - |
+| 2020 | Investigating cryptic binding sites by molecular dynamics simulations | Acc Chem Res | [Link](https://doi.org/10.1021/acs.accounts.9b00613) | - |
+| 2022 | Principles of kinase allosteric inhibition and pocket validation | J Med Chem | [Link](https://doi.org/10.1021/acs.jmedchem.2c00073) | - |
 | 2023 | Advancing targeted protein degradation via multiomics profiling and artificial intelligence | JACS | [Link](https://doi.org/10.1021/jacs.2c11098) | - |
 
 ## Roadmap
@@ -66,6 +70,7 @@
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2021 | Out-of-the-box deep learning prediction of pharmaceutical properties by broadly learned knowledge-based molecular representations | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-021-00301-6) | [link](https://github.com/shenwanxiang/bidd-molmap) |
+| 2022 | Does GNN pretraining help molecular representation? | NeurIPS 2022 | [Link](https://openreview.net/forum?id=uytgM9N0vlR) | - |
 | 2023 | Uni-Mol: a universal 3D molecular representation learning framework | ICLR 2023 | [Link](https://openreview.net/forum?id=6K2RM6wVqKu) | [link](https://github.com/dptech-corp/Uni-Mol) |
 
 
@@ -120,12 +125,21 @@
 | 2015 | The FTMap family of web servers for determining and characterizing ligand-binding hot spots of proteins | Nat Protoc | [Link](https://doi.org/10.1038/nprot.2015.043) | [Link](https://ftmap.bu.edu/login.php) |
 | 2016 | CryptoSite: expanding the druggable proteome by characterization and prediction of cryptic binding sites | J Mol Biol | [Link](https://doi.org/10.1016/j.jmb.2016.01.029) | [Link](https://modbase.compbio.ucsf.edu/cryptosite/) |
 | 2019 | Computational methods and tools for binding site recognition between proteins and small molecules: from classical geometrical approaches to modern machine learning strategies | J Comput Aided Mol Des | [Link](https://doi.org/10.1007/s10822-019-00235-7) | - |
+| 2019 | Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning (MaSIF) | Nat Methods | [Link](https://doi.org/10.1038/s41592-019-0666-6) | [Link1](https://github.com/lpdi-epfl/masif) [Link2](https://doi.org/10.5281/zenodo.2625420) |
+| 2020 | Essential site scanning analysis: a new approach for detecting sites that modulate the dispersion of protein global motions | Comput Struct Biotechnol J | [Link](https://doi.org/10.1016/j.csbj.2020.06.020) | - |
 | 2020 | Spatiotemporal identification of druggable binding sites using deep learning | Commun Biol | [Link](https://doi.org/10.1038/s42003-020-01350-0) | [Link1](https://github.com/i-Molecule/bitenet) [Link2](https://sites.skoltech.ru/imolecule/tools/bitenet)|
+| 2021 | Decrypting a cryptic allosteric pocket in H. pylori glutamate racemase | Commun Chem | [Link](https://doi.org/10.1038/s42004-021-00605-z) | - |
 | 2021 | What features of ligands are relevant to the opening of cryptic pockets in drug targets? | Informatics | [Link](https://doi.org/10.3390/informatics9010008) | [Link](https://ochem.eu/model/913) |
 | 2021 | Finding druggable sites in proteins using TACTICS| JCIM | [Link](https://doi.org/10.1021/acs.jcim.1c00204) | [Link](https://github.com/Albert-Lau-Lab/tactics_protein_analysis) |
+| 2021 | Protein interaction interface region prediction by geometric deep learning | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btab154) | [Link](https://github.com/FTD007/PInet) |
 | 2022 | PointSite: a point cloud segmentation tool for identification of protein ligand binding atoms| JCIM | [Link](https://doi.org/10.1021/acs.jcim.1c01512) | [Link](https://github.com/PointSite/PointSite) |
 | 2022 | PASSer2.0: accurate prediction of protein allosteric sites through automated machine learning | Front Mol Biosci | [Link](https://doi.org/10.3389/fmolb.2022.879251) | [Link](https://passer.smu.edu/) |
 | 2023 | PASSer: fast and accurate prediction of protein allosteric sites | NAR | [Link](https://doi.org/10.1093/nar/gkad303) | [Link](https://passer.smu.edu/) |
+| 2023 | Discovery of a cryptic pocket in the AI-predicted structure of PPM1D phosphatase explains the binding site and potency of its allosteric inhibitors | Front Mol Biosci | [Link](https://doi.org/10.3389/fmolb.2023.1171143) | - |
+| 2023 | Predicting allosteric pockets in protein biological assemblages | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btad275) | [Link](https://github.com/Ambuj-UF/APOP) |
+| 2023 | Accelerating cryptic pocket discovery using AlphaFold | J Chem Theory Comput | [Link](https://doi.org/10.1021/acs.jctc.2c01189) | [Link](https://github.com/sbhakat/AF-cryptic-pocket) |
+| 2023 | PeSTo: parameter-free geometric deep learning for accurate prediction of protein binding interfaces | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-37701-8) | [Link](https://github.com/LBM-EPFL/PeSTo) |
+| 2023 | Predicting locations of cryptic pockets from single protein structures using the PocketMiner graph neural network | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-36699-3) | [Link1](https://github.com/Mickdub/gvp/tree/pocket_pred) [Link2](https://github.com/meghana-kshirsagar/3DCNN_protein_structures/tree/main/models)|
 
 
 ## Compound-protein Interaction (CPI)
