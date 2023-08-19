@@ -182,7 +182,7 @@
 | 2020 | RosENet: improving binding affinity prediction by leveraging molecular mechanics energies with an ensemble of 3D convolutional neural networks | JCIM | [Link](https://doi.org/10.1021/acs.jcim.0c00075) | [Link](https://github.com/DS3Lab/RosENet/tree/master) |
 | 2020 | AK-Score: accurate protein-ligand binding affinity prediction using an ensemble of 3D-convolutional neural networks | Int J Mol Sci | [Link](https://doi.org/10.3390/ijms21228424) | - |
 | 2021 | Virtual Screening with Gnina 1.0 | Molecules | [Link](https://doi.org/10.3390/molecules26237369) | - |
-| 2021 | Improved protein–ligand binding affinity prediction with structure-based deep fusion inference | JCIM | [Link](https://doi.org/10.1021/acs.jcim.0c01306) | [Link1](https://github.com/llnl/fast) [Link2](ftp://gdobioinformatics.ucllnl.org/fast/pdbbind2016_model_checkpoints/) |
+| 2021 | Improved protein–ligand binding affinity prediction with structure-based deep fusion inference | JCIM | [Link](https://doi.org/10.1021/acs.jcim.0c01306) | [Link](https://github.com/llnl/fast) |
 | 2023 | HAC-Net: a hybrid attention-based convolutional neural network for highly accurate protein–ligand binding affinity prediction | JCIM | [Link](https://doi.org/10.1021/acs.jcim.3c00251) | [Link](https://github.com/gregory-kyro/HAC-Net/) |
 ### Structure Based (GNN)
 | Year | Title | Journal | Paper | Code |
