@@ -11,7 +11,7 @@
   - [Learning from Protein Structures](#Learning-from-Protein-Structures)  
   - [Protein Structure Prediction](#Protein-Structure-Prediction)
 - [Effects of Mutations](#Effects-of-Mutations)
-- [Binding Site Prediction](##Binding-Site-Prediction)
+- [Binding Site Prediction](#Binding-Site-Prediction)
 - [Compound-protein Interaction (CPI)](#Compound-protein-Interaction-cpi)
   - [Protein Sequence Based](#Protein-Sequence-Based)
   - [Structure Based (CNN)](#Structure-Based-CNN)
@@ -38,6 +38,7 @@
 ## Review
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
+| 2016 | Protein binding pocket dynamics | Acc Chem Res | [Link](https://doi.org/10.1021/acs.accounts.5b00516) | - |
 | 2018 | Markov State Models: from an art to a science | J Am Chem Soc | [Link](https://doi.org/10.1021/jacs.7b12191) | - |
 | 2018 | Cryptic binding sites on proteins: definition, detection, and druggability | Curr Opin Chem Biol | [Link](https://doi.org/10.1016/j.cbpa.2018.05.003) | - |
 | 2019 | Computational methods and tools for binding site recognition between proteins and small molecules: from classical geometrical approaches to modern machine learning strategies | J Comput Aided Mol Des | [Link](https://doi.org/10.1007/s10822-019-00235-7) | - |
@@ -140,6 +141,7 @@
 | 2023 | Accelerating cryptic pocket discovery using AlphaFold | J Chem Theory Comput | [Link](https://doi.org/10.1021/acs.jctc.2c01189) | [Link](https://github.com/sbhakat/AF-cryptic-pocket) |
 | 2023 | PeSTo: parameter-free geometric deep learning for accurate prediction of protein binding interfaces | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-37701-8) | [Link](https://github.com/LBM-EPFL/PeSTo) |
 | 2023 | Predicting locations of cryptic pockets from single protein structures using the PocketMiner graph neural network | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-36699-3) | [Link1](https://github.com/Mickdub/gvp/tree/pocket_pred) [Link2](https://github.com/meghana-kshirsagar/3DCNN_protein_structures/tree/main/models)|
+| 2023 | PocketNet: ligand-guided pocket prediction for blind docking | ICLR 2023 MLDD | [Link](https://openreview.net/forum?id=XhfIVsvwHl) | - |
 
 
 ## Compound-protein Interaction (CPI)
@@ -198,6 +200,7 @@
 | 2022 | Independent SE(3)-equivariant models for end-to-end rigid protein docking (EQUIDOCK) | ICLR 2022 | [Link](https://openreview.net/forum?id=GQjaI9mLet) | [Link](https://github.com/octavian-ganea/equidock_public) |
 | 2022 | EQUIBIND: geometric deep learning for drug binding structure prediction | ICML 2022 | [Link](https://proceedings.mlr.press/v162/stark22b/stark22b.pdf) | [Link](https://github.com/HannesStark/EquiBind) |
 | 2023 | AQDnet: deep neural network for protein–ligand docking simulation | ACS Omega | [Link](https://doi.org/10.1021/acsomega.3c02411) | [Link](https://github.com/koji11235/AQDnet) |
+| 2023 | DiffDock: diffusion steps, twists, and turns for molecular docking | ICLR 2023 | [Link](https://openreview.net/forum?id=kKF8_K-mBbS) | [Link](https://github.com/gcorso/DiffDock) |
 | 2023 | Do deep learning models really outperform traditional approaches in molecular docking? | ICLR 2023 MLDD | [Link](https://openreview.net/pdf?id=JrtHZdbGtN) | - |
 ### Latent Biases
 | Year | Title | Journal | Paper | Code |
@@ -224,6 +227,7 @@
 | --- | --- | --- | --- | --- |
 | 2021 | Chemical toxicity prediction based on semi-supervised learning and graph convolutional neural network | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00570-8) | [Link](https://github.com/chen709847237/SSL-GCN) |
 | 2023 | Uni-QSAR: an auto-ML tool for molecular property prediction | arXiv | [Link](https://arxiv.org/abs/2304.12239) | - |
+| 2023 | Domain-aware representation of small molecules for explainable property prediction models | ICLR 2023 MLDD | [Link](https://openreview.net/forum?id=C9WW17wQF7p) | - |
 ### Frequent Hitters
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
