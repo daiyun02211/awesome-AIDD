@@ -70,9 +70,9 @@
 ## Representations for Molecules
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
-| 2021 | Out-of-the-box deep learning prediction of pharmaceutical properties by broadly learned knowledge-based molecular representations | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-021-00301-6) | [link](https://github.com/shenwanxiang/bidd-molmap) |
+| 2021 | Out-of-the-box deep learning prediction of pharmaceutical properties by broadly learned knowledge-based molecular representations | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-021-00301-6) | [Link](https://github.com/shenwanxiang/bidd-molmap) |
 | 2022 | Does GNN pretraining help molecular representation? | NeurIPS 2022 | [Link](https://openreview.net/forum?id=uytgM9N0vlR) | - |
-| 2023 | Uni-Mol: a universal 3D molecular representation learning framework | ICLR 2023 | [Link](https://openreview.net/forum?id=6K2RM6wVqKu) | [link](https://github.com/dptech-corp/Uni-Mol) |
+| 2023 | Uni-Mol: a universal 3D molecular representation learning framework | ICLR 2023 | [Link](https://openreview.net/forum?id=6K2RM6wVqKu) | [Link](https://github.com/dptech-corp/Uni-Mol) |
 
 
 ## Representations for Proteins 
@@ -140,7 +140,7 @@
 | 2023 | Predicting allosteric pockets in protein biological assemblages | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btad275) | [Link](https://github.com/Ambuj-UF/APOP) |
 | 2023 | Accelerating cryptic pocket discovery using AlphaFold | J Chem Theory Comput | [Link](https://doi.org/10.1021/acs.jctc.2c01189) | [Link](https://github.com/sbhakat/AF-cryptic-pocket) |
 | 2023 | PeSTo: parameter-free geometric deep learning for accurate prediction of protein binding interfaces | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-37701-8) | [Link](https://github.com/LBM-EPFL/PeSTo) |
-| 2023 | Predicting locations of cryptic pockets from single protein structures using the PocketMiner graph neural network | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-36699-3) | [Link1](https://github.com/Mickdub/gvp/tree/pocket_pred) [Link2](https://github.com/meghana-kshirsagar/3DCNN_protein_structures/tree/main/models)|
+| 2023 | Predicting locations of cryptic pockets from single protein structures using the PocketMiner graph neural network | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-36699-3) | [Link1](https://github.com/Mickdub/gvp/tree/pocket_pred) [Link2](https://github.com/meghana-kshirsagar/3DCNN_protein_structures/tree/main/models) |
 | 2023 | PocketNet: ligand-guided pocket prediction for blind docking | ICLR 2023 MLDD | [Link](https://openreview.net/forum?id=XhfIVsvwHl) | - |
 
 
@@ -196,9 +196,13 @@
 | --- | --- | --- | --- | --- |
 | 2020 | Combining docking pose rank and structure with deep learning improves protein–ligand binding mode prediction over a baseline docking approach | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00927) | - |
 | 2021 | Fast end-to-end learning on protein surfaces (dMaSIF) | CVPR 2021 | [Link](https://openaccess.thecvf.com/content/CVPR2021/papers/Sverrisson_Fast_End-to-End_Learning_on_Protein_Surfaces_CVPR_2021_paper.pdf) | [Link](https://github.com/FreyrS/dMaSIF) |
-| 2021 | Learning protein-ligand binding affinity with atomic environment vectors | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00536-w) | [Link1](https://github.com/bigginlab/aescore) [Link2](doi.org/10.5281/zenodo.4155365) |
+| 2021 | Learning protein-ligand binding affinity with atomic environment vectors | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00536-w) | [Link1](https://github.com/bigginlab/aescore) [Link2](https://doi.org/10.5281/zenodo.4155365) |
+| 2021 | A geometric deep learning approach to predict binding conformations of bioactive molecules | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-021-00409-9) | [Link](https://github.com/OptiMaL-PSE-Lab/DeepDock) |
+| 2022 | Artificial intelligence-enabled virtual screening of ultra-large chemical libraries with deep docking | Nat Protoc | [Link](https://doi.org/10.1038/s41596-021-00659-2) | [Link1](https://github.com/jamesgleave/DD_protocol) [Link2](https://doi.org/10.20383/102.0489) |
+| 2022 | Benchmarking AlphaFold-enabled molecular docking predictions for antibiotic discovery | Mol Syst Biol | [Link](https://doi.org/10.15252/msb.202211081) | - |
 | 2022 | Independent SE(3)-equivariant models for end-to-end rigid protein docking (EQUIDOCK) | ICLR 2022 | [Link](https://openreview.net/forum?id=GQjaI9mLet) | [Link](https://github.com/octavian-ganea/equidock_public) |
 | 2022 | EQUIBIND: geometric deep learning for drug binding structure prediction | ICML 2022 | [Link](https://proceedings.mlr.press/v162/stark22b/stark22b.pdf) | [Link](https://github.com/HannesStark/EquiBind) |
+| 2022 | TANKBind: trigonometry-aware neural networKs for drug-protein binding structure prediction | NeurIPS 2022 | [Link](https://openreview.net/forum?id=MSBDFwGYwwt) | - |
 | 2023 | AQDnet: deep neural network for protein–ligand docking simulation | ACS Omega | [Link](https://doi.org/10.1021/acsomega.3c02411) | [Link](https://github.com/koji11235/AQDnet) |
 | 2023 | DiffDock: diffusion steps, twists, and turns for molecular docking | ICLR 2023 | [Link](https://openreview.net/forum?id=kKF8_K-mBbS) | [Link](https://github.com/gcorso/DiffDock) |
 | 2023 | Do deep learning models really outperform traditional approaches in molecular docking? | ICLR 2023 MLDD | [Link](https://openreview.net/pdf?id=JrtHZdbGtN) | - |
