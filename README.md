@@ -47,7 +47,8 @@
 | 2020 | Investigating cryptic binding sites by molecular dynamics simulations | Acc Chem Res | [Link](https://doi.org/10.1021/acs.accounts.9b00613) | - |
 | 2022 | Principles of kinase allosteric inhibition and pocket validation | J Med Chem | [Link](https://doi.org/10.1021/acs.jmedchem.2c00073) | - |
 | 2023 | Advancing targeted protein degradation via multiomics profiling and artificial intelligence | JACS | [Link](https://doi.org/10.1021/jacs.2c11098) | - |
-| 2023 | AI-powered therapeutic target discovery | JACS | [Link](https://doi.org/10.1016/j.tips.2023.06.010) | - |
+| 2023 | A systematic survey in geometric deep learning for structure-based drug design | arXiv| [Link](https://arxiv.org/pdf/2306.11768.pdf) | - |
+| 2023 | AI-powered therapeutic target discovery | Trends Pharmacol Sci | [Link](https://doi.org/10.1016/j.tips.2023.06.010) | - |
 
 
 ## Roadmap
