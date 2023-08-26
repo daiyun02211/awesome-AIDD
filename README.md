@@ -9,7 +9,8 @@
 - [Representations for Proteins](#Representations-for-Proteins)
   - [Protein Language Models (PLMs)](#Protein-Language-Models-plms)
   - [Learning from Protein Structures](#Learning-from-Protein-Structures)  
-  - [Protein Structure Prediction](#Protein-Structure-Prediction)
+- [Protein Structure Prediction](#Protein-Structure-Prediction)
+- [Enzyme](#Enzyme)
 - [Effects of Mutations](#Effects-of-Mutations)
 - [Binding Site Prediction](#Binding-Site-Prediction)
 - [Compound-protein Interaction (CPI)](#Compound-protein-Interaction-cpi)
@@ -46,6 +47,8 @@
 | 2020 | Investigating cryptic binding sites by molecular dynamics simulations | Acc Chem Res | [Link](https://doi.org/10.1021/acs.accounts.9b00613) | - |
 | 2022 | Principles of kinase allosteric inhibition and pocket validation | J Med Chem | [Link](https://doi.org/10.1021/acs.jmedchem.2c00073) | - |
 | 2023 | Advancing targeted protein degradation via multiomics profiling and artificial intelligence | JACS | [Link](https://doi.org/10.1021/jacs.2c11098) | - |
+| 2023 | AI-powered therapeutic target discovery | JACS | [Link](https://doi.org/10.1016/j.tips.2023.06.010) | - |
+
 
 ## Roadmap
 | Year | Title | Journal | Paper | Code |
@@ -98,11 +101,17 @@
 | 2022 | Learning inverse folding from millions of predicted structures (ESM-IF1) | ICML 2022 | [Link](https://proceedings.mlr.press/v162/hsu22a.html) | [Link](https://github.com/facebookresearch/esm) |
 | 2022 | Pre-training of equivariant graph matching networks with conformation flexibility for drug binding (ProtMD) | Adv Sci (Weinh) | [Link](https://doi.org/10.1002/advs.202203796) | [Link](https://github.com/smiles724/ProtMD) |
 | 2023 | Protein representation learning by geometric structure pretraining (GearNet) | ICLR 2023 | [Link](https://openreview.net/forum?id=to3qCB3tOh9) | [Link](https://github.com/DeepGraphLearning/GearNet) |
-### Protein Structure Prediction
+
+## Protein Structure Prediction
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2023 | Evolutionary-scale prediction of atomic-level protein structure with a language model (ESM-2, ESMFold) | Science | [Link](https://doi.org/10.1126/science.ade2574) | [Link1](https://github.com/facebookresearch/esm) [Link2](https://zenodo.org/record/7566741) |
 | 2023 | EigenFold: generative protein structure prediction with diffusion models | ICLR 2023 MLDD | [Link](https://openreview.net/pdf?id=BgbRVzfQqFp) | [Link](https://github.com/bjing2016/EigenFold) |
+
+## Enzyme
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2023 | Turnover number predictions for kinetically uncharacterized enzymes using machine and deep learning | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-39840-4) | [Link1](https://github.com/AlexanderKroll/Kcat_prediction) [Link2](https://doi.org/10.5281/zenodo.7849347) |
 
 ## Effects of Mutations
 | Year | Title | Journal | Paper | Code |
