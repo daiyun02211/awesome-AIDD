@@ -102,6 +102,7 @@
 | 2022 | Learning inverse folding from millions of predicted structures (ESM-IF1) | ICML 2022 | [Link](https://proceedings.mlr.press/v162/hsu22a.html) | [Link](https://github.com/facebookresearch/esm) |
 | 2022 | Pre-training of equivariant graph matching networks with conformation flexibility for drug binding (ProtMD) | Adv Sci (Weinh) | [Link](https://doi.org/10.1002/advs.202203796) | [Link](https://github.com/smiles724/ProtMD) |
 | 2023 | Protein representation learning by geometric structure pretraining (GearNet) | ICLR 2023 | [Link](https://openreview.net/forum?id=to3qCB3tOh9) | [Link](https://github.com/DeepGraphLearning/GearNet) |
+| 2023 | Learning hierarchical protein representations via complete 3D graph networks | ICLR 2023 | [Link](https://openreview.net/forum?id=9X-hgLDLYkQ) | [Link](https://github.com/divelab/DIG) |
 
 ## Protein Structure Prediction
 | Year | Title | Journal | Paper | Code |
