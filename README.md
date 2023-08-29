@@ -101,6 +101,7 @@
 | 2021 | Learning from protein structure with geometric vector perceptrons (GVP) | ICLR 2021 | [Link](https://openreview.net/forum?id=1YLJDvSx6J4) | [Link](https://github.com/drorlab/gvp) |
 | 2022 | Learning inverse folding from millions of predicted structures (ESM-IF1) | ICML 2022 | [Link](https://proceedings.mlr.press/v162/hsu22a.html) | [Link](https://github.com/facebookresearch/esm) |
 | 2022 | Pre-training of equivariant graph matching networks with conformation flexibility for drug binding (ProtMD) | Adv Sci (Weinh) | [Link](https://doi.org/10.1002/advs.202203796) | [Link](https://github.com/smiles724/ProtMD) |
+| 2022 | Spherical message passing for 3D molecular graphs | ICLR 2022 | [Link](https://openreview.net/forum?id=givsRXsOt9r) | [Link](https://github.com/divelab/DIG) |
 | 2023 | Protein representation learning by geometric structure pretraining (GearNet) | ICLR 2023 | [Link](https://openreview.net/forum?id=to3qCB3tOh9) | [Link](https://github.com/DeepGraphLearning/GearNet) |
 | 2023 | Learning hierarchical protein representations via complete 3D graph networks | ICLR 2023 | [Link](https://openreview.net/forum?id=9X-hgLDLYkQ) | [Link](https://github.com/divelab/DIG) |
 
@@ -148,8 +149,9 @@
 | 2021 | What features of ligands are relevant to the opening of cryptic pockets in drug targets? | Informatics | [Link](https://doi.org/10.3390/informatics9010008) | [Link](https://ochem.eu/model/913) |
 | 2021 | Finding druggable sites in proteins using TACTICS| JCIM | [Link](https://doi.org/10.1021/acs.jcim.1c00204) | [Link](https://github.com/Albert-Lau-Lab/tactics_protein_analysis) |
 | 2021 | Protein interaction interface region prediction by geometric deep learning | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btab154) | [Link](https://github.com/FTD007/PInet) |
+| 2022 | ScanNet: an interpretable geometric deep learning model for structure-based protein binding site prediction | Nat Methods | [Link](https://doi.org/10.1038/s41592-022-01490-7) | [Link1](https://github.com/jertubiana/ScanNet) [Link2](https://zenodo.org/record/6521889#.YnPoYS8RpbW) |
 | 2022 | GraphSite: ligand binding site classification with deep graph learning| Biomolecules | [Link](https://doi.org/10.3390/biom12081053) | [Link1](https://github.com/shiwentao00/Graphsite-classifier) [Link2](https://osf.io/svwkb/)|
-| 2022 | PointSite: a point cloud segmentation tool for identification of protein ligand binding atoms| JCIM | [Link](https://doi.org/10.1021/acs.jcim.1c01512) | [Link](https://github.com/PointSite/PointSite) |
+| 2022 | PointSite: a point cloud segmentation tool for identification of protein ligand binding atoms | JCIM | [Link](https://doi.org/10.1021/acs.jcim.1c01512) | [Link](https://github.com/PointSite/PointSite) |
 | 2022 | Classification of protein-binding sites using a spherical convolutional neural network| JCIM | [Link](https://doi.org/10.1021/acs.jcim.2c00832) | [Link](https://github.com/Jing9558/BindSiteS-CNN) |
 | 2022 | Decoding surface fingerprints for protein-ligand interactions| ICLR 2022 MLDD | [Link](https://openreview.net/forum?id=YRb9-uZ4noQ) | - |
 | 2022 | PASSer2.0: accurate prediction of protein allosteric sites through automated machine learning | Front Mol Biosci | [Link](https://doi.org/10.3389/fmolb.2022.879251) | [Link](https://passer.smu.edu/) |
@@ -160,6 +162,8 @@
 | 2023 | PeSTo: parameter-free geometric deep learning for accurate prediction of protein binding interfaces | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-37701-8) | [Link](https://github.com/LBM-EPFL/PeSTo) |
 | 2023 | Predicting locations of cryptic pockets from single protein structures using the PocketMiner graph neural network | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-36699-3) | [Link1](https://github.com/Mickdub/gvp/tree/pocket_pred) [Link2](https://github.com/meghana-kshirsagar/3DCNN_protein_structures/tree/main/models) |
 | 2023 | PocketNet: ligand-guided pocket prediction for blind docking | ICLR 2023 MLDD | [Link](https://openreview.net/forum?id=XhfIVsvwHl) | - |
+| 2023 | EquiPocket: an E(3)-equivariant geometric graph neural network for ligand binding site prediction | arXiv | [Link](https://arxiv.org/abs/2302.12177) | - |
+| 2023 | PocketAnchor: Learning structure-based pocket representations for protein-ligand interaction prediction | Cell Syst | [Link](https://doi.org/10.1016/j.cels.2023.05.005) | [Link1](https://github.com/lishuya17/PocketAnchorData) [Link2](https://github.com/tiantz17/PocketAnchor) |
 
 
 ## Compound-protein Interaction (CPI)
