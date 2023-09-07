@@ -24,6 +24,7 @@
 - [Molecular Property Prediction](#Molecular-Property-Prediction)
   - [ADMET](#ADMET)
   - [Frequent Hitters](#Frequent-Hitters)
+  - [Multitarget-directed Ligands](#Multitarget-directed-Ligands)
 - [De Novo Molecule Design](#De-Novo-Molecule-Design)
   - [Protein](#Protein)
 - [Targeted Protein Degradation](#Targeted-Protein-Degradation)
@@ -49,7 +50,7 @@
 | 2023 | Advancing targeted protein degradation via multiomics profiling and artificial intelligence | JACS | [Link](https://doi.org/10.1021/jacs.2c11098) | - |
 | 2023 | A systematic survey in geometric deep learning for structure-based drug design | arXiv| [Link](https://arxiv.org/pdf/2306.11768.pdf) | - |
 | 2023 | AI-powered therapeutic target discovery | Trends Pharmacol Sci | [Link](https://doi.org/10.1016/j.tips.2023.06.010) | - |
-
+| 2023 | Artificial intelligence in drug toxicity prediction: recent advances, challenges, and future perspectives | JCIM | [Link](https://doi.org/10.1021/acs.jcim.3c00200) | - |
 
 ## Roadmap
 | Year | Title | Journal | Paper | Code |
@@ -192,6 +193,7 @@
 | 2023 | Improving the generalizability of protein-ligand binding predictions with AI-Bind | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-37572-z) | [Link1](https://github.com/ChatterjeeAyan/AI-Bind) [Link2](https://doi.org/10.5281/zenodo.7730755)|
 | 2023 | Interpretable bilinear attention network with domain adaptation improves drug–target prediction (DrugBAN) | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-022-00605-1) | [Link1](https://github.com/peizhenbai/DrugBAN) [Link2](https://doi.org/10.24433/CO.3558316.v1)|
 | 2023 | Sequence-based drug design as a concept in computational drug design (TransformerCPI 2.0)| Nat Commun | [Link](https://doi.org/10.1038/s41467-023-39856-w) | [Link1](https://github.com/lifanchen-simm/transformerCPI2.0) [Link2](https://doi.org/10.5281/zenodo.7993486)|
+| 2023 | MoDTI: modular framework for evaluating inductive biases in DTI modeling | ICLR 2023 MLDD | [Link](https://openreview.net/forum?id=Tj-bRjuhpJ5) | - |
 ### Structure Based (CNN)
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
@@ -262,6 +264,10 @@
 | 2020 | Frequent hitters: nuisance artifacts in high-throughput screening | Drug Discov Today | [Link](https://doi.org/10.1016/j.drudis.2020.01.014) | - |
 | 2021 | Computational prediction of frequent hitters in target-based and cell-based assays | Artif Intell Life Sci | [Link](https://doi.org/10.1016/j.ailsci.2021.100007) | [Link](https://nerdd.univie.ac.at/hitdexter3) |
 | 2021 | Combating small-molecule aggregation with machine learning | Cell Rep Phys Sci | [Link](https://doi.org/10.1016/j.xcrp.2021.100573) | [Link](https://github.com/tcorodrigues/DeepSCAMs) |
+### Multitarget-directed Ligands
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2023 | Kinome-wide polypharmacology profiling of small molecules by multi-task graph isomorphism network approach | Acta Pharm Sin B | [Link](https://doi.org/10.1016/j.apsb.2022.05.004) | [Link](http://cadd.zju.edu.cn/kip) |
 
 
 ## De Novo Molecule Design
