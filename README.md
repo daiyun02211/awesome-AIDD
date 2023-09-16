@@ -194,6 +194,7 @@
 | 2023 | Interpretable bilinear attention network with domain adaptation improves drug–target prediction (DrugBAN) | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-022-00605-1) | [Link1](https://github.com/peizhenbai/DrugBAN) [Link2](https://doi.org/10.24433/CO.3558316.v1)|
 | 2023 | Sequence-based drug design as a concept in computational drug design (TransformerCPI 2.0)| Nat Commun | [Link](https://doi.org/10.1038/s41467-023-39856-w) | [Link1](https://github.com/lifanchen-simm/transformerCPI2.0) [Link2](https://doi.org/10.5281/zenodo.7993486)|
 | 2023 | MoDTI: modular framework for evaluating inductive biases in DTI modeling | ICLR 2023 MLDD | [Link](https://openreview.net/forum?id=Tj-bRjuhpJ5) | - |
+| 2023 | An industrial evaluation of proteochemometric modelling: Predicting drug-target affinities for kinases | Artif Intell Life Sci | [Link](https://doi.org/10.1016/j.ailsci.2023.100079) | [Link](https://github.com/AstraZeneca/AdaptedGraphDTA) |
 ### Structure Based (CNN)
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
@@ -253,6 +254,7 @@
 ### ADMET
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
+| 2020 | Pushing the boundaries of molecular representation for drug discovery with the graph attention mechanism (Attentive FP) | J Med Chem | [Link](https://doi.org/10.1021/acs.jmedchem.9b00959) | [Link](https://github.com/OpenDrugAI/AttentiveFP) |
 | 2021 | Chemical toxicity prediction based on semi-supervised learning and graph convolutional neural network | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00570-8) | [Link](https://github.com/chen709847237/SSL-GCN) |
 | 2023 | Uni-QSAR: an auto-ML tool for molecular property prediction | arXiv | [Link](https://arxiv.org/abs/2304.12239) | - |
 | 2023 | Domain-aware representation of small molecules for explainable property prediction models | ICLR 2023 MLDD | [Link](https://openreview.net/forum?id=C9WW17wQF7p) | - |
