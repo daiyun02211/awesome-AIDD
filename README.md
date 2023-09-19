@@ -51,6 +51,7 @@
 | 2023 | A systematic survey in geometric deep learning for structure-based drug design | arXiv| [Link](https://arxiv.org/pdf/2306.11768.pdf) | - |
 | 2023 | AI-powered therapeutic target discovery | Trends Pharmacol Sci | [Link](https://doi.org/10.1016/j.tips.2023.06.010) | - |
 | 2023 | Artificial intelligence in drug toxicity prediction: recent advances, challenges, and future perspectives | JCIM | [Link](https://doi.org/10.1021/acs.jcim.3c00200) | - |
+| 2023 | From target discovery to clinical drug development with human genetics | Nature | [Link](https://doi.org/10.1038/s41586-023-06388-8) | - |
 
 ## Roadmap
 | Year | Title | Journal | Paper | Code |
@@ -286,6 +287,9 @@
 | --- | --- | --- | --- | --- |
 | 2020 | PRosettaC: Rosetta based modeling of PROTAC mediated ternary complexes | JCIM | [Link](https://doi.org/10.1021/acs.jcim.0c00589) | [Link](https://prosettac.weizmann.ac.il/pacb/steps) |
 | 2023 | High accuracy prediction of PROTAC complex structures | JACS | [Link](https://doi.org/10.1021/jacs.2c09387) | - |
+| 2023 | Bayesian optimization for ternary complex prediction (BOTCP) | Artif Intell Life Sci | [Link](https://doi.org/10.1016/j.ailsci.2023.100072) | - |
+
+
 #### Generation
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
@@ -303,6 +307,7 @@
 ## RNA
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
+| 2019 | A deep learning framework to predict binding preference of RNA constituents on protein surface (NucleicNet) | Nat Commun | [Link](https://doi.org/10.1038/s41467-019-12920-0) | [Link](https://github.com/NucleicNet/NucleicNet) |
 | 2023 | RNAincoder: a deep learning-based encoder for RNA and RNA-associated interaction | NAR | [Link](https://doi.org/doi.org/10.1093/nar/gkad404) | [Link](https://idrblab.org/rnaincoder/) |
 
 
