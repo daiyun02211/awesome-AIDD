@@ -302,7 +302,8 @@
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2021 | Protein design and variant prediction using autoregressive generative models | Nat Commun | [Link](https://doi.org/10.1038/s41467-021-22732-w) | [Link1](https://github.com/debbiemarkslab/SeqDesign) [Link2](https://doi.org/10.5281/zenodo.4606785) |
-
+| 2023 | Critical review of conformational B-cell epitope prediction methods | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbac567) | [Link](https://github.com/3BioCompBio/BCellEpitope) |
+| 2023 | Recent progress in antibody epitope prediction | Antibodies | [Link](https://doi.org/10.3390/antib12030052) | - |
 
 ## RNA
 | Year | Title | Journal | Paper | Code |
