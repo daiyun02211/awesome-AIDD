@@ -35,6 +35,7 @@
 - [RNA](#RNA)
 - [Machine Learning Algorithms](#Machine-Learning-Algorithms)
   - [Uncertainty](#Uncertainty)
+  - [Sparsity and Popularity Biases](#Sparsity-and-Popularity-Biases)
 
 
 ## Review
@@ -331,7 +332,10 @@
 | 2020 | Leveraging uncertainty in machine learning accelerates biological discovery and design | Cell Syst | [Link](https://doi.org/10.1016/j.cels.2020.09.007) | [Link](https://github.com/brianhie/uncertainty) |
 | 2021 | A hybrid framework for improving uncertainty quantification in deep learning-based QSAR regression modeling | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00551-x) | [Link](https://github.com/wangdingyan/HybridUQ) |
 | 2023 | Drug discovery under covariate shift with domain-informed prior distributions over functions | ICML 2023 | [Link](https://openreview.net/forum?id=BbZVFj0QPv) | [Link](https://github.com/leojklarner/Q-SAVI) |
-
+### Sparsity and Popularity Biases
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2023 | LightGCL: simple yet effective graph contrastive learning for recommendation | ICLR 2023 | [Link](https://github.com/HKUDS/LightGCL) | [Link](https://github.com/HKUDS/LightGCL) |
 
 # Related Awesome
 * [awesome-protein-representation-learning](https://github.com/LirongWu/awesome-protein-representation-learning)
