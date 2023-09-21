@@ -31,7 +31,7 @@
   - [PROTAC](#PROTAC)
     - [Docking](#Docking)
     - [Generation](#Generation)
-- [Antibody](#Antibody)
+- [Antigen-Antibody](#Antigen-Antibody)
 - [RNA](#RNA)
 - [Machine Learning Algorithms](#Machine-Learning-Algorithms)
   - [Uncertainty](#Uncertainty)
@@ -46,12 +46,14 @@
 | 2019 | Computational methods and tools for binding site recognition between proteins and small molecules: from classical geometrical approaches to modern machine learning strategies | J Comput Aided Mol Des | [Link](https://doi.org/10.1007/s10822-019-00235-7) | - |
 | 2020 | Integrated computational approaches and tools for allosteric drug discovery | Int J Mol Sci | [Link](https://doi.org/10.3390/ijms21030847) | - |
 | 2020 | Investigating cryptic binding sites by molecular dynamics simulations | Acc Chem Res | [Link](https://doi.org/10.1021/acs.accounts.9b00613) | - |
+| 2020 | A Review of Deep Learning Methods for Antibodies | Antibodies | [Link](https://doi.org/10.3390/antib9020012) | - |
 | 2022 | Principles of kinase allosteric inhibition and pocket validation | J Med Chem | [Link](https://doi.org/10.1021/acs.jmedchem.2c00073) | - |
 | 2023 | Advancing targeted protein degradation via multiomics profiling and artificial intelligence | JACS | [Link](https://doi.org/10.1021/jacs.2c11098) | - |
 | 2023 | A systematic survey in geometric deep learning for structure-based drug design | arXiv| [Link](https://arxiv.org/pdf/2306.11768.pdf) | - |
 | 2023 | AI-powered therapeutic target discovery | Trends Pharmacol Sci | [Link](https://doi.org/10.1016/j.tips.2023.06.010) | - |
 | 2023 | Artificial intelligence in drug toxicity prediction: recent advances, challenges, and future perspectives | JCIM | [Link](https://doi.org/10.1021/acs.jcim.3c00200) | - |
 | 2023 | From target discovery to clinical drug development with human genetics | Nature | [Link](https://doi.org/10.1038/s41586-023-06388-8) | - |
+| 2023 | Recent advances in targeting the "undruggable" proteins: from drug discovery to clinical trials | Sig Transduct Target Ther | [Link](https://doi.org/10.1038/s41392-023-01589-z) | - |
 
 ## Roadmap
 | Year | Title | Journal | Paper | Code |
@@ -132,6 +134,7 @@
 | 2021 | Language models enable zero-shot prediction of the effects of mutations on protein function (ESM-1v) | NeurIPS 2021 | [Link](https://openreview.net/forum?id=uXc42E9ZPFs) | [Link](https://github.com/facebookresearch/esm) |
 | 2023 | Mega-scale experimental analysis of protein folding stability in biology and design | Nature | [Link](https://doi.org/10.1038/s41586-023-06328-6) | [Link1](https://doi.org/10.5281/zenodo.7992926) [Link2](https://github.com/Rocklin-Lab/cdna-display-proteolysis-pipeline) |
 | 2023 | Genome-wide prediction of disease variant effects with a deep protein language model | Nat Genet | [Link](https://doi.org/10.1038/s41588-023-01465-0) | [Link](https://github.com/ntranoslab/esm-variants) |
+| 2023 | Accurate proteome-wide missense variant effect prediction with AlphaMissense | Science | [Link](https://doi/10.1126/science.adg7492) | [Link1](https://github.com/deepmind/alphamissense) [Link2](https://console.cloud.google.com/storage/browser/dm_alphamissense) |
 
 ## Binding Site Prediction
 | Year | Title | Journal | Paper | Code |
@@ -301,12 +304,18 @@
 | 2022 | De novo PROTAC design using graph-based deep generative models | arXiv | [Link](https://arxiv.org/abs/2211.02660) | [Link1](https://github.com/divnori/Protac-Design) [Link2](https://zenodo.org/record/7278277) |
 
 
-## Antibody
+## Antigen-Antibody
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2021 | Protein design and variant prediction using autoregressive generative models | Nat Commun | [Link](https://doi.org/10.1038/s41467-021-22732-w) | [Link1](https://github.com/debbiemarkslab/SeqDesign) [Link2](https://doi.org/10.5281/zenodo.4606785) |
+| 2021 | Optimization of therapeutic antibodies by predicting antigen specificity from antibody sequence via deep learning | Nat Biomed Eng | [Link](https://doi.org/10.1038/s41551-021-00699-9) | [Link](https://github.com/dahjan/DMS_opt) |
+| 2022 | Co-optimization of therapeutic antibody affinity and specificity using machine learning models that generalize to novel mutational space | Nat Commun | [Link](https://doi.org/10.1038/s41467-022-31457-3) | [Link](https://github.com/Tessier-Lab-UMich/Emi_Pareto_Opt_ML) |
+| 2022 | Predicting unseen antibodies’ neutralizability via adaptive graph neural networks | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-022-00553-w) | [Link](https://github.com/enai4bio/DeepAAI) |
 | 2023 | Critical review of conformational B-cell epitope prediction methods | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbac567) | [Link](https://github.com/3BioCompBio/BCellEpitope) |
 | 2023 | Recent progress in antibody epitope prediction | Antibodies | [Link](https://doi.org/10.3390/antib12030052) | - |
+| 2023 | Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-38063-x) | [Link1](https://github.com/Graylab/IgFold) [Link2](https://doi.org/10.5281/zenodo.7709609) |
+| 2023 | Machine learning optimization of candidate antibody yields highly diverse sub-nanomolar affinity antibody libraries | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-39022-2) | [Link1](https://github.com/AIforGreatGood/biotransfer) [Link2](https://doi.org/10.5281/zenodo.7927152) |
+| 2023 | Optimization of therapeutic antibodies for reduced self-association and non-specific binding via interpretable machine learning | Nat Biomed Eng | [Link](https://doi.org/10.1038/s41551-023-01074-6) | [Link](https://github.com/Tessier-Lab-UMich/CST_Prop_Opt_ML) |
 
 ## RNA
 | Year | Title | Journal | Paper | Code |
