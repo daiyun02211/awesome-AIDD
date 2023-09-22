@@ -80,6 +80,7 @@
 ## Representations for Molecules
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
+| 2020 | Molecular representation learning with language models and domain-relevant auxiliary tasks | NeurIPS 2020 ML4Molecules | [Link](https://arxiv.org/abs/2011.13230) | [Link](https://github.com/BenevolentAI/MolBERT) |
 | 2021 | Out-of-the-box deep learning prediction of pharmaceutical properties by broadly learned knowledge-based molecular representations | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-021-00301-6) | [Link](https://github.com/shenwanxiang/bidd-molmap) |
 | 2022 | Does GNN pretraining help molecular representation? | NeurIPS 2022 | [Link](https://openreview.net/forum?id=uytgM9N0vlR) | - |
 | 2023 | Uni-Mol: a universal 3D molecular representation learning framework | ICLR 2023 | [Link](https://openreview.net/forum?id=6K2RM6wVqKu) | [Link](https://github.com/dptech-corp/Uni-Mol) |
@@ -145,6 +146,7 @@
 | 2015 | The FTMap family of web servers for determining and characterizing ligand-binding hot spots of proteins | Nat Protoc | [Link](https://doi.org/10.1038/nprot.2015.043) | [Link](https://ftmap.bu.edu/login.php) |
 | 2016 | A random forest model for predicting allosteric and functional sites on proteins | Mol Inform | [Link](https://doi.org/10.1002/minf.201500108) | - |
 | 2016 | CryptoSite: expanding the druggable proteome by characterization and prediction of cryptic binding sites | J Mol Biol | [Link](https://doi.org/10.1016/j.jmb.2016.01.029) | [Link](https://modbase.compbio.ucsf.edu/cryptosite/) |
+| 2018 | Comparative assessment of strategies to identify similar ligand-binding pockets in proteins | BMC Bioinformatics | [Link](https://doi.org/10.1186/s12859-018-2109-2) | [Link](https://osf.io/6ngbs/) |
 | 2019 | Allosteric mechanism of the circadian protein Vivid resolved through Markov state model and machine learning analysis | PLoS Comput Biol | [Link](https://doi.org/10.1371/journal.pcbi.1006801) | - |
 | 2019 | DeepDrug3D: classification of ligand-binding pockets in proteins with a convolutional neural network | PLoS Comput Biol | [Link](https://doi.org/10.1371/journal.pcbi.1006718) | [Link1](https://github.com/pulimeng/DeepDrug3D) [Link2](https://osf.io/enz69/) |
 | 2019 | Computational methods and tools for binding site recognition between proteins and small molecules: from classical geometrical approaches to modern machine learning strategies | J Comput Aided Mol Des | [Link](https://doi.org/10.1007/s10822-019-00235-7) | - |
@@ -241,6 +243,7 @@
 ### Latent Biases
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
+| 2017 | Structural and sequence similarity makes a significant impact on machine-learning-based scoring functions for protein–ligand interactions | JCIM | [Link](https://doi.org/10.1021/acs.jcim.7b00049) | - |
 | 2019 | Hidden bias in the DUD-E dataset leads to misleading performance of deep learning in structure-based virtual screening | PLoS One | [Link](https://doi.org/10.1371/journal.pone.0220113) | - |
 | 2021 | Exploration and augmentation of pharmacological space via adversarial auto-encoder model for facilitating kinase-centric drug development | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00574-4) | [Link](http://github.com/xybai-dev/EPA) |
 | 2022 | On the choice of active site sequences for kinase-ligand affinity prediction | JCIM | [Link](https://doi.org/10.1021/acs.jcim.2c00840) | [Link](https://github.com/PaccMann/paccmann_kinase_binding_residues) |
@@ -277,6 +280,10 @@
 ### Multitarget-directed Ligands
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
+| 2015 | The recognition of identical ligands by unrelated proteins | ACS Chem Biol | [Link](https://doi.org/10.1021/acschembio.5b00683) | - |
+| 2016 | Prediction of protein pairs sharing common active ligands using protein sequence, structure, and ligand similarity | JCIM | [Link](https://doi.org/10.1021/acs.jcim.6b00118) | - |
+| 2020 | Identification of target associations for polypharmacology from analysis of crystallographic ligands of the Protein Data Bank | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00821) | - |
+| 2020 | A computer vision approach to align and compare protein cavities: application to fragment-based drug design | J Med Chem | [Link](https://doi.org/10.1021/acs.jmedchem.0c00422) | - |
 | 2023 | Kinome-wide polypharmacology profiling of small molecules by multi-task graph isomorphism network approach | Acta Pharm Sin B | [Link](https://doi.org/10.1016/j.apsb.2022.05.004) | [Link](http://cadd.zju.edu.cn/kip) |
 
 
