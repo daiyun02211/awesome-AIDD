@@ -17,8 +17,10 @@
   - [Protein Sequence Based](#Protein-Sequence-Based)
   - [Structure Based (CNN)](#Structure-Based-CNN)
   - [Structure Based (GNN)](#Structure-Based-GNN)
-  - [Molecular Docking](#Molecular-Docking)
+  - [Docking Scoring Function](#Docking-Scoring-Function)
+  - [Deep Docking](#Deep-Docking)
   - [Latent Biases](#Latent-Biases)
+  - [Virtual Screening Pipeline](#Virtual-Screening-Pipeline)
   - [Link Prediction](#Link-Prediction)
 - [Protein-protein Interaction (PPI)](#Protein-protein-Interaction-ppi)
 - [Molecular Property Prediction](#Molecular-Property-Prediction)
@@ -45,6 +47,7 @@
 | 2018 | Markov State Models: from an art to a science | J Am Chem Soc | [Link](https://doi.org/10.1021/jacs.7b12191) | - |
 | 2018 | Cryptic binding sites on proteins: definition, detection, and druggability | Curr Opin Chem Biol | [Link](https://doi.org/10.1016/j.cbpa.2018.05.003) | - |
 | 2019 | Computational methods and tools for binding site recognition between proteins and small molecules: from classical geometrical approaches to modern machine learning strategies | J Comput Aided Mol Des | [Link](https://doi.org/10.1007/s10822-019-00235-7) | - |
+| 2020 | Application of negative design to design a more desirable virtual screening library | J Med Chem | [Link](https://doi.org/10.1021/acs.jmedchem.9b01476) | - |
 | 2020 | Integrated computational approaches and tools for allosteric drug discovery | Int J Mol Sci | [Link](https://doi.org/10.3390/ijms21030847) | - |
 | 2020 | Investigating cryptic binding sites by molecular dynamics simulations | Acc Chem Res | [Link](https://doi.org/10.1021/acs.accounts.9b00613) | - |
 | 2020 | A Review of Deep Learning Methods for Antibodies | Antibodies | [Link](https://doi.org/10.3390/antib9020012) | - |
@@ -224,12 +227,17 @@
 | 2019 | Graph convolutional neural networks for predicting drug-target interactions | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00628) | - |
 | 2019 | Predicting drug−target interaction using a novel graph neural network with 3D structure-embedded graph representation | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00387) | [Link](https://github.com/jaechanglim/GNN_DTI) |
 | 2022 | PIGNet: a physics-informed deep learning model toward generalized drug-target interaction predictions | Chem Sci | [Link](https://doi.org/10.1039/d1sc06946b) | [Link](https://github.com/ACE-KAIST/PIGNet) |
-### Molecular Docking
+### Docking Scoring Function
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2021 | The impact of compound library size on the performance of scoring functions for structure-based virtual screening | Brief Bioinform | [Link](https://10.1093/bib/bbaa095) | - |
+| 2021 | Learning protein-ligand binding affinity with atomic environment vectors | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00536-w) | [Link1](https://github.com/bigginlab/aescore) [Link2](https://doi.org/10.5281/zenodo.4155365) |
+| 2023 | Reducing false positive rate of docking-based virtual screening by active learning | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbac626) | - |
+### Deep Docking
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2020 | Combining docking pose rank and structure with deep learning improves protein–ligand binding mode prediction over a baseline docking approach | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00927) | - |
 | 2021 | Fast end-to-end learning on protein surfaces (dMaSIF) | CVPR 2021 | [Link](https://openaccess.thecvf.com/content/CVPR2021/papers/Sverrisson_Fast_End-to-End_Learning_on_Protein_Surfaces_CVPR_2021_paper.pdf) | [Link](https://github.com/FreyrS/dMaSIF) |
-| 2021 | Learning protein-ligand binding affinity with atomic environment vectors | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00536-w) | [Link1](https://github.com/bigginlab/aescore) [Link2](https://doi.org/10.5281/zenodo.4155365) |
 | 2021 | A geometric deep learning approach to predict binding conformations of bioactive molecules | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-021-00409-9) | [Link](https://github.com/OptiMaL-PSE-Lab/DeepDock) |
 | 2022 | Artificial intelligence-enabled virtual screening of ultra-large chemical libraries with deep docking | Nat Protoc | [Link](https://doi.org/10.1038/s41596-021-00659-2) | [Link1](https://github.com/jamesgleave/DD_protocol) [Link2](https://doi.org/10.20383/102.0489) |
 | 2022 | Benchmarking AlphaFold-enabled molecular docking predictions for antibiotic discovery | Mol Syst Biol | [Link](https://doi.org/10.15252/msb.202211081) | - |
@@ -249,6 +257,10 @@
 | 2022 | On the choice of active site sequences for kinase-ligand affinity prediction | JCIM | [Link](https://doi.org/10.1021/acs.jcim.2c00840) | [Link](https://github.com/PaccMann/paccmann_kinase_binding_residues) |
 | 2022 | Bias in the Benchmark: Systematic experimental errors in bioactivity databases confound multi-task and meta-learning algorithms | ICML-AI4Science | [Link](https://openreview.net/forum?id=Gc5oq8sr6A3) | - |
 | 2023 | Latent biases in machine learning models for predicting binding affinities using popular data sets | ACS Omega | [Link](https://doi.org/10.1021/acsomega.2c06781) | [Link](https://github.com/devalab/Protein-Ligand-DatasetBias) |
+### Virtual Screening Pipeline
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2021 | Machine learning-enabled pipeline for large-scale virtual drug screening | JCIM | [Link](https://doi.org/10.1021/acs.jcim.1c00710) | [Link](https://github.com/aaayushg/RPN11_inhibitors) |
 ### Link Prediction
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
