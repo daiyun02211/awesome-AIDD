@@ -79,6 +79,7 @@
 | 2009 | Maximum unbiased validation (MUV) data sets for virtual screening based on PubChem bioactivity data | JCIM | [Link](https://doi.org/10.1021/ci8002649) | [Link](https://www.tu-braunschweig.de/en/pharmchem/forschung/baumann/translate-to-english-muv) |
 | 2020 | Machine learning classification can reduce false positives in structure-based virtual screening | PNAS | [Link](https://doi.org/10.1073/pnas.2000585117) | [Link1](https://data.mendeley.com/datasets/8czn4rxz68/) [Link2](https://github.com/karanicolaslab/vScreenML) |
 | 2021 | Generating property-matched decoy molecules using deep learning | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btab080) | [Link1](https://github.com/oxpig/DeepCoy) [Link2](http://opig.stats.ox.ac.uk/resources) |
+| 2022 | TocoDecoy: a new approach to design unbiased datasets for training and benchmarking machine-learning scoring functions | J Med Chem | [Link](https://doi.org/10.1021/acs.jmedchem.2c00460) | [Link1](https://github.com/5AGE-zhang/TocoDecoy) [Link2](https://zenodo.org/record/5290011#.YSmecN--vVg) |
 
 ## Representations for Molecules
 | Year | Title | Journal | Paper | Code |
@@ -230,6 +231,7 @@
 ### Docking Scoring Function
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
+| 2021 | Improving structure-based virtual screening performance via learning from scoring function components | Brief Bioinform | [Link](https://10.1093/bib/bbaa094) | [Link](https://github.com/xiongguoli/data_EATs-learning) |
 | 2021 | The impact of compound library size on the performance of scoring functions for structure-based virtual screening | Brief Bioinform | [Link](https://10.1093/bib/bbaa095) | - |
 | 2021 | Learning protein-ligand binding affinity with atomic environment vectors | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00536-w) | [Link1](https://github.com/bigginlab/aescore) [Link2](https://doi.org/10.5281/zenodo.4155365) |
 | 2023 | Reducing false positive rate of docking-based virtual screening by active learning | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbac626) | - |
@@ -251,6 +253,8 @@
 ### Latent Biases
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
+| 2016 | Benchmark of four popular virtual screening programs: construction of the active/decoy dataset remains a major determinant of measured performance
+ | J Cheminform | [Link](https://doi.org/10.1186/s13321-016-0167-x) | - |
 | 2017 | Structural and sequence similarity makes a significant impact on machine-learning-based scoring functions for protein–ligand interactions | JCIM | [Link](https://doi.org/10.1021/acs.jcim.7b00049) | - |
 | 2019 | Hidden bias in the DUD-E dataset leads to misleading performance of deep learning in structure-based virtual screening | PLoS One | [Link](https://doi.org/10.1371/journal.pone.0220113) | - |
 | 2021 | Exploration and augmentation of pharmacological space via adversarial auto-encoder model for facilitating kinase-centric drug development | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00574-4) | [Link](http://github.com/xybai-dev/EPA) |
