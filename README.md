@@ -37,6 +37,7 @@
 - [RNA](#RNA)
 - [Machine Learning Algorithms](#Machine-Learning-Algorithms)
   - [Uncertainty](#Uncertainty)
+  - [Interpretation](#Interpretation)
   - [Sparsity and Popularity Biases](#Sparsity-and-Popularity-Biases)
 
 
@@ -234,10 +235,13 @@
 | 2021 | Improving structure-based virtual screening performance via learning from scoring function components | Brief Bioinform | [Link](https://10.1093/bib/bbaa094) | [Link](https://github.com/xiongguoli/data_EATs-learning) |
 | 2021 | The impact of compound library size on the performance of scoring functions for structure-based virtual screening | Brief Bioinform | [Link](https://10.1093/bib/bbaa095) | - |
 | 2021 | Learning protein-ligand binding affinity with atomic environment vectors | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00536-w) | [Link1](https://github.com/bigginlab/aescore) [Link2](https://doi.org/10.5281/zenodo.4155365) |
+| 2022 | Protein-ligand interaction graphs: learning from ligand-shaped 3D interaction graphs to improve binding affinity prediction | bioRxiv | [Link]( https://doi.org/10.1101/2022.03.04.483012) | [Link](https://github.com/MarcMoesser/ProteinLigand-Interaction-Graphs) |
+| 2022 | Learning from docked ligands: ligand-based features rescue structure-based scoring functions when trained on docked poses | JCIM | [Link](https://doi.org/10.1021/acs.jcim.1c00096) | [Link1](https://github.com/oxpig/learning-from-docked-poses) [Link2](https://doi.org/10.6084/m9.figshare.13713226.v1) |
 | 2023 | Reducing false positive rate of docking-based virtual screening by active learning | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbac626) | - |
 ### Deep Docking
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
+| 2019 | Learning from the ligand: using ligand-based features to improve binding affinity prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btz665) | [Link](http://opig.stats.ox.ac.uk/resources) |
 | 2020 | Combining docking pose rank and structure with deep learning improves protein–ligand binding mode prediction over a baseline docking approach | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00927) | - |
 | 2021 | Fast end-to-end learning on protein surfaces (dMaSIF) | CVPR 2021 | [Link](https://openaccess.thecvf.com/content/CVPR2021/papers/Sverrisson_Fast_End-to-End_Learning_on_Protein_Surfaces_CVPR_2021_paper.pdf) | [Link](https://github.com/FreyrS/dMaSIF) |
 | 2021 | A geometric deep learning approach to predict binding conformations of bioactive molecules | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-021-00409-9) | [Link](https://github.com/OptiMaL-PSE-Lab/DeepDock) |
@@ -355,6 +359,10 @@
 | 2020 | Leveraging uncertainty in machine learning accelerates biological discovery and design | Cell Syst | [Link](https://doi.org/10.1016/j.cels.2020.09.007) | [Link](https://github.com/brianhie/uncertainty) |
 | 2021 | A hybrid framework for improving uncertainty quantification in deep learning-based QSAR regression modeling | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00551-x) | [Link](https://github.com/wangdingyan/HybridUQ) |
 | 2023 | Drug discovery under covariate shift with domain-informed prior distributions over functions | ICML 2023 | [Link](https://openreview.net/forum?id=BbZVFj0QPv) | [Link](https://github.com/leojklarner/Q-SAVI) |
+### Interpretation
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2023 | Interpreting graph neural networks with myerson values for cheminformatics approaches | ChemRxiv | [Link](https://doi.org/10.26434/chemrxiv-2023-1hxxc) | - |
 ### Sparsity and Popularity Biases
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
