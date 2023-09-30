@@ -78,9 +78,12 @@
 | Year | Title | Journal | Paper | Website |
 | --- | --- | --- | --- | --- |
 | 2009 | Maximum unbiased validation (MUV) data sets for virtual screening based on PubChem bioactivity data | JCIM | [Link](https://doi.org/10.1021/ci8002649) | [Link](https://www.tu-braunschweig.de/en/pharmchem/forschung/baumann/translate-to-english-muv) |
+| 2018 | Most ligand-based classification benchmarks reward memorization rather than generalization | JCIM | [Link](https://doi.org/10.1021/acs.jcim.7b00403) | [Link](http://pubs.acs.org/doi/suppl/10.1021/acs.jcim.7b00403/suppl_file/ci7b00403_si_001.zip) |
+| 2018 | BioSNAP datasets: Stanford biomedical network dataset collection | - | [Link](https://snap.stanford.edu/biodata/) | - |
 | 2020 | Machine learning classification can reduce false positives in structure-based virtual screening | PNAS | [Link](https://doi.org/10.1073/pnas.2000585117) | [Link1](https://data.mendeley.com/datasets/8czn4rxz68/) [Link2](https://github.com/karanicolaslab/vScreenML) |
 | 2021 | Generating property-matched decoy molecules using deep learning | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btab080) | [Link1](https://github.com/oxpig/DeepCoy) [Link2](http://opig.stats.ox.ac.uk/resources) |
-| 2022 | TocoDecoy: a new approach to design unbiased datasets for training and benchmarking machine-learning scoring functions | J Med Chem | [Link](https://doi.org/10.1021/acs.jmedchem.2c00460) | [Link1](https://github.com/5AGE-zhang/TocoDecoy) [Link2](https://zenodo.org/record/5290011#.YSmecN--vVg) |
+| 2021 | Hierarchical clustering split for low-bias evaluation of drug-target interaction prediction | BIBM 2021 | [Link](https://doi.org/10.1109/BIBM52615.2021.9669515) | - |
+| 2022 | TocoDecoy: A new approach to design unbiased datasets for training and benchmarking machine-learning scoring functions | J Med Chem | [Link](https://doi.org/10.1021/acs.jmedchem.2c00460) | [Link1](https://github.com/5AGE-zhang/TocoDecoy) [Link2](https://zenodo.org/record/5290011#.YSmecN--vVg) |
 
 ## Representations for Molecules
 | Year | Title | Journal | Paper | Code |
@@ -205,6 +208,7 @@
 | 2022 | Improved compound-protein interaction site and binding affinity prediction using self-supervised protein embeddings | BMC Bioinformatics | [Link](https://doi.org/10.1186/s12859-022-05107-w) | [Link](https://github.com/Jwoods14/SPE-MONN) |
 | 2023 | Improving the generalizability of protein-ligand binding predictions with AI-Bind | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-37572-z) | [Link1](https://github.com/ChatterjeeAyan/AI-Bind) [Link2](https://doi.org/10.5281/zenodo.7730755)|
 | 2023 | Interpretable bilinear attention network with domain adaptation improves drug–target prediction (DrugBAN) | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-022-00605-1) | [Link1](https://github.com/peizhenbai/DrugBAN) [Link2](https://doi.org/10.24433/CO.3558316.v1)|
+| 2023 | Contrastive learning in protein language space predictsinteractions between drugs and protein targets | PNAS | [Link](https://doi.org/10.1073/pnas.2220778120) | [Link](https://github.com/samsledje/ConPLex_dev) |
 | 2023 | Sequence-based drug design as a concept in computational drug design (TransformerCPI 2.0)| Nat Commun | [Link](https://doi.org/10.1038/s41467-023-39856-w) | [Link1](https://github.com/lifanchen-simm/transformerCPI2.0) [Link2](https://doi.org/10.5281/zenodo.7993486)|
 | 2023 | MoDTI: modular framework for evaluating inductive biases in DTI modeling | ICLR 2023 MLDD | [Link](https://openreview.net/forum?id=Tj-bRjuhpJ5) | - |
 | 2023 | An industrial evaluation of proteochemometric modelling: Predicting drug-target affinities for kinases | Artif Intell Life Sci | [Link](https://doi.org/10.1016/j.ailsci.2023.100079) | [Link](https://github.com/AstraZeneca/AdaptedGraphDTA) |
