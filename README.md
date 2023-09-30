@@ -187,16 +187,21 @@
 ### Protein Sequence Based
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
+| 2017 | Deep-learning-based drug−target interaction prediction (DeepDTI) | J Proteome Res | [Link](https://doi.org/10.1021/acs.jproteome.6b00618) | [Link](https://github.com/Bjoux2/DeepDTIs_DBN) |
 | 2018 | DeepDTA: deep drug-target binding affinity prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/bty593) | [Link](https://github.com/hkmztrk/DeepDTA) |
+| 2019 | DeepCPI: A deep learning-based framework for large-scale in silico drug screening | GPB | [Link](https://doi.org/10.1016/j.gpb.2019.04.003) | [Link](https://github.com/FangpingWan/DeepCPI) |
+| 2019 | Compound–protein interaction prediction with end-to-end learning of neural networks for graphs and sequences (Tsubaki et al) | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/bty535) | [Link](https://github.com/masashitsubaki) |
 | 2019 | DeepAffinity: interpretable deep learning of compound–protein affinity through unified recurrent and convolutional neural networks | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btz111) | [Link](https://github.com/Shen-Lab/DeepAffinity) |
 | 2020 | MONN: a multi-objective neural network for predicting compound-protein interactions and affinities | Cell Syst | [Link](https://doi.org/10.1016/j.cels.2020.03.002) | [Link](https://github.com/lishuya17/MONN) |
 | 2020 | GraphDTA: predicting drug–target binding affinity with graph neural networks | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btaa921) | [Link](https://github.com/thinng/GraphDTA) |
 | 2020 | TransformerCPI: improving compound–protein interaction prediction by sequence-based deep learning with self-attention mechanism and label reversal experiments | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btaa524) | [Link](https://github.com/thinng/GraphDTA](https://github.com/lifanchen-simm/transformerCPI)) |
 | 2020 | Predicting drug–protein interaction using quasi-visual question answering system (DrugVQA) | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-020-0152-y) | [Link](https://github.com/prokia/drugVQA) |
 | 2020 | DeepACTION: A deep learning-based method for predicting novel drug-target interactions | Anal Biochem | [Link](https://doi.org/10.1016/j.ab.2020.113978) | - |
+| 2021 | Deep learning integration of molecular and interactome data for protein–compound interaction prediction (Watanabe et al) | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00513-3) | [Link](https://github.com/Njk-901aru/multi_DTI) |
 | 2021 | Multi-PLI: interpretable multi-task deep learning model for unifying protein-ligand interaction datasets | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00510-6) | [Link](https://github.com/Siat-Code/Multi-PLI/) |
 | 2021 | MolTrans: Molecular Interaction Transformer for drug-target interaction prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btaa880) | [Link](https://github.com/kexinhuang12345/moltrans) |
 | 2021 | DeepDTAF: a deep learning method to predict protein–ligand binding affinity | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbab072) | [Link](github.com/KailiWang1/DeepDTAF) |
+| 2022 | DeepMHADTA: prediction of drug-target binding affinity using multi-head self-attention and convolutional neural network | Curr Issues Mol Biol | [Link](https://doi.org/10.3390/cimb44050155) | - |
 | 2022 | HyperAttentionDTI: improving drug–protein interaction prediction by sequence-based deep learning with attention mechanism | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btab715) | [Link1](https://github.com/zhaoqichang/HpyerAttentionDTI) [Link2](https://zenodo.org/record/5039589) |
 | 2022 | DeepREAL: a deep learning powered multi-scale modeling framework for predicting out-of-distribution ligand-induced GPCR activity | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btac154) | [Link](https://github.com/XieResearchGroup/DeepREAL) |
 | 2022 | MGraphDTA: deep multiscale graph neural network for explainable drug–target binding affinity prediction | Chem Sci | [Link](https://doi.org/10.1039/d1sc05180f) | [Link](https://github.com/guaguabujianle/MGraphDTA) |
