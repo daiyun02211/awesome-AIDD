@@ -189,6 +189,7 @@
 | --- | --- | --- | --- | --- |
 | 2017 | Deep-learning-based drug−target interaction prediction (DeepDTI) | J Proteome Res | [Link](https://doi.org/10.1021/acs.jproteome.6b00618) | [Link](https://github.com/Bjoux2/DeepDTIs_DBN) |
 | 2018 | DeepDTA: deep drug-target binding affinity prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/bty593) | [Link](https://github.com/hkmztrk/DeepDTA) |
+| 2019 | DeepConv-DTI: Prediction of drug-target interactions via deep learning with convolution on protein sequences | PLoS Comput Biol | [Link](https://doi.org/10.1371/journal.pcbi.1007129) | [Link](https://github.com/GIST-CSBL/DeepConv-DTI) |
 | 2019 | DeepCPI: A deep learning-based framework for large-scale in silico drug screening | GPB | [Link](https://doi.org/10.1016/j.gpb.2019.04.003) | [Link](https://github.com/FangpingWan/DeepCPI) |
 | 2019 | Compound–protein interaction prediction with end-to-end learning of neural networks for graphs and sequences (Tsubaki et al) | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/bty535) | [Link](https://github.com/masashitsubaki) |
 | 2019 | DeepAffinity: interpretable deep learning of compound–protein affinity through unified recurrent and convolutional neural networks | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btz111) | [Link](https://github.com/Shen-Lab/DeepAffinity) |
@@ -198,17 +199,19 @@
 | 2020 | Predicting drug–protein interaction using quasi-visual question answering system (DrugVQA) | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-020-0152-y) | [Link](https://github.com/prokia/drugVQA) |
 | 2020 | DeepACTION: A deep learning-based method for predicting novel drug-target interactions | Anal Biochem | [Link](https://doi.org/10.1016/j.ab.2020.113978) | - |
 | 2021 | Deep learning integration of molecular and interactome data for protein–compound interaction prediction (Watanabe et al) | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00513-3) | [Link](https://github.com/Njk-901aru/multi_DTI) |
-| 2021 | Multi-PLI: interpretable multi-task deep learning model for unifying protein-ligand interaction datasets | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00510-6) | [Link](https://github.com/Siat-Code/Multi-PLI/) |
-| 2021 | MolTrans: Molecular Interaction Transformer for drug-target interaction prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btaa880) | [Link](https://github.com/kexinhuang12345/moltrans) |
-| 2021 | DeepDTAF: a deep learning method to predict protein–ligand binding affinity | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbab072) | [Link](github.com/KailiWang1/DeepDTAF) |
-| 2022 | DeepMHADTA: prediction of drug-target binding affinity using multi-head self-attention and convolutional neural network | Curr Issues Mol Biol | [Link](https://doi.org/10.3390/cimb44050155) | - |
-| 2022 | HyperAttentionDTI: improving drug–protein interaction prediction by sequence-based deep learning with attention mechanism | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btab715) | [Link1](https://github.com/zhaoqichang/HpyerAttentionDTI) [Link2](https://zenodo.org/record/5039589) |
+| 2021 | Multi-PLI: Interpretable multi-task deep learning model for unifying protein-ligand interaction datasets | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00510-6) | [Link](https://github.com/Siat-Code/Multi-PLI/) |
+| 2021 | MSA-regularized protein sequence transformer toward predicting genome-wide chemical-protein interactions: Application to GPCRome deorphanization (DISAE) | JCIM | [Link](https://doi.org/10.1021/acs.jcim.0c01285) | [Link](https://github.com/XieResearchGroup/DISAE) |
+| 2021 | MolTrans: Molecular interaction transformer for drug-target interaction prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btaa880) | [Link](https://github.com/kexinhuang12345/moltrans) |
+| 2021 | DTI-MLCD: Predicting drug-target interactions using multi-label learning with community detection method | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbaa205) | [Link](https://github.com/a96123155/DTI-MLCD) |
+| 2021 | DeepDTAF: A deep learning method to predict protein–ligand binding affinity | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbab072) | [Link](github.com/KailiWang1/DeepDTAF) |
+| 2022 | BACPI: A bi-directional attention neural network for compound–protein interaction and binding affinity prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btac035) | [Link](https://github.com/CSUBioGroup/BACPI) |
+| 2022 | DeepMHADTA: Prediction of drug-target binding affinity using multi-head self-attention and convolutional neural network | Curr Issues Mol Biol | [Link](https://doi.org/10.3390/cimb44050155) | - |
+| 2022 | HyperAttentionDTI: Improving drug–protein interaction prediction by sequence-based deep learning with attention mechanism | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btab715) | [Link1](https://github.com/zhaoqichang/HpyerAttentionDTI) [Link2](https://zenodo.org/record/5039589) |
 | 2022 | DeepREAL: a deep learning powered multi-scale modeling framework for predicting out-of-distribution ligand-induced GPCR activity | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btac154) | [Link](https://github.com/XieResearchGroup/DeepREAL) |
 | 2022 | MGraphDTA: deep multiscale graph neural network for explainable drug–target binding affinity prediction | Chem Sci | [Link](https://doi.org/10.1039/d1sc05180f) | [Link](https://github.com/guaguabujianle/MGraphDTA) |
 | 2022 | BridgeDPI: a novel Graph Neural Network for predicting drug–protein interactions | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btac155) | [Link](https://github.com/SenseTime-Knowledge-Mining/BridgeDPI) |
 | 2022 | Structure-aware multimodal deep learning for drug–protein interaction prediction (STAMP-DPI) | JCIM | [Link](https://doi.org/10.1021/acs.jcim.2c00060) | [Link](https://github.com/biomed-AI/STAMP-DPI) |
 | 2022 | TransDTI: transformer-based language models for estimating DTIs and building a drug recommendation workflow | ACS Omega | [Link](https://doi.org/10.1021/acsomega.1c05203) | [Link](https://github.com/TeamSundar/transDTI) |
-| 2022 | AttentionSiteDTI: an interpretable graph-based model for drug-target interaction prediction using NLP sentence-level relation classification | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbac272) | [Link](https://github.com/yazdanimehdi/AttentionSiteDTI) |
 | 2022 | CoaDTI: multi-modal co-attention based framework for drug-target interaction annotation | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbac446) | [Link](https://github.com/Layne-Huang/CoaDTI) |
 | 2022 | Improved compound-protein interaction site and binding affinity prediction using self-supervised protein embeddings | BMC Bioinformatics | [Link](https://doi.org/10.1186/s12859-022-05107-w) | [Link](https://github.com/Jwoods14/SPE-MONN) |
 | 2023 | Improving the generalizability of protein-ligand binding predictions with AI-Bind | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-37572-z) | [Link1](https://github.com/ChatterjeeAyan/AI-Bind) [Link2](https://doi.org/10.5281/zenodo.7730755)|
@@ -238,6 +241,7 @@
 | 2019 | Graph convolutional neural networks for predicting drug-target interactions | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00628) | - |
 | 2019 | Predicting drug−target interaction using a novel graph neural network with 3D structure-embedded graph representation | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00387) | [Link](https://github.com/jaechanglim/GNN_DTI) |
 | 2022 | PIGNet: a physics-informed deep learning model toward generalized drug-target interaction predictions | Chem Sci | [Link](https://doi.org/10.1039/d1sc06946b) | [Link](https://github.com/ACE-KAIST/PIGNet) |
+| 2022 | AttentionSiteDTI: an interpretable graph-based model for drug-target interaction prediction using NLP sentence-level relation classification | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbac272) | [Link](https://github.com/yazdanimehdi/AttentionSiteDTI) |
 ### Docking Scoring Function
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
