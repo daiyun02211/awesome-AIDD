@@ -225,7 +225,7 @@
 | 2023 | ArkDTA: attention regularization guided by non-covalent interactions for explainable drug–target binding affinity prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btad207) | [Link](https://github.com/dmis-lab/ArkDTA) |
 | 2023 | Improving the generalizability of protein-ligand binding predictions with AI-Bind | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-37572-z) | [Link1](https://github.com/ChatterjeeAyan/AI-Bind) [Link2](https://doi.org/10.5281/zenodo.7730755)|
 | 2023 | Interpretable bilinear attention network with domain adaptation improves drug–target prediction (DrugBAN) | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-022-00605-1) | [Link1](https://github.com/peizhenbai/DrugBAN) [Link2](https://doi.org/10.24433/CO.3558316.v1)|
-| 2023 | Contrastive learning in protein language space predictsinteractions between drugs and protein targets | PNAS | [Link](https://doi.org/10.1073/pnas.2220778120) | [Link](https://github.com/samsledje/ConPLex_dev) |
+| 2023 | Contrastive learning in protein language space predictsinteractions between drugs and protein targets (ConPLex) | PNAS | [Link](https://doi.org/10.1073/pnas.2220778120) | [Link](https://github.com/samsledje/ConPLex_dev) |
 | 2023 | Sequence-based drug design as a concept in computational drug design (TransformerCPI 2.0)| Nat Commun | [Link](https://doi.org/10.1038/s41467-023-39856-w) | [Link1](https://github.com/lifanchen-simm/transformerCPI2.0) [Link2](https://doi.org/10.5281/zenodo.7993486)|
 | 2023 | MoDTI: modular framework for evaluating inductive biases in DTI modeling | ICLR 2023 MLDD | [Link](https://openreview.net/forum?id=Tj-bRjuhpJ5) | - |
 | 2023 | An industrial evaluation of proteochemometric modelling: Predicting drug-target affinities for kinases | Artif Intell Life Sci | [Link](https://doi.org/10.1016/j.ailsci.2023.100079) | [Link](https://github.com/AstraZeneca/AdaptedGraphDTA) |
@@ -279,8 +279,7 @@
 ### Latent Biases
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
-| 2016 | Benchmark of four popular virtual screening programs: construction of the active/decoy dataset remains a major determinant of measured performance
- | J Cheminform | [Link](https://doi.org/10.1186/s13321-016-0167-x) | - |
+| 2016 | Benchmark of four popular virtual screening programs: construction of the active/decoy dataset remains a major determinant of measured performance | J Cheminform | [Link](https://doi.org/10.1186/s13321-016-0167-x) | - |
 | 2017 | Structural and sequence similarity makes a significant impact on machine-learning-based scoring functions for protein–ligand interactions | JCIM | [Link](https://doi.org/10.1021/acs.jcim.7b00049) | - |
 | 2019 | Hidden bias in the DUD-E dataset leads to misleading performance of deep learning in structure-based virtual screening | PLoS One | [Link](https://doi.org/10.1371/journal.pone.0220113) | - |
 | 2021 | Exploration and augmentation of pharmacological space via adversarial auto-encoder model for facilitating kinase-centric drug development | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00574-4) | [Link](http://github.com/xybai-dev/EPA) |
