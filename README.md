@@ -5,6 +5,7 @@
 - [Data](#Data)
   - [Databases](#Databases)
   - [Data Sets](#Data-Sets)
+  - [Benchmark](#Benchmark)
 - [Representations for Molecules](#Representations-for-Molecules)
 - [Representations for Proteins](#Representations-for-Proteins)
   - [Protein Language Models (PLMs)](#Protein-Language-Models-plms)
@@ -78,12 +79,19 @@
 | Year | Title | Journal | Paper | Website |
 | --- | --- | --- | --- | --- |
 | 2009 | Maximum unbiased validation (MUV) data sets for virtual screening based on PubChem bioactivity data | JCIM | [Link](https://doi.org/10.1021/ci8002649) | [Link](https://www.tu-braunschweig.de/en/pharmchem/forschung/baumann/translate-to-english-muv) |
+| 2015 | Improving compound–protein interaction prediction by building up highly credible negative samples (human & C.elegans) | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btv256) | [Link](http://admis.fudan.edu.cn/negative-cpi/) |
 | 2018 | Most ligand-based classification benchmarks reward memorization rather than generalization | JCIM | [Link](https://doi.org/10.1021/acs.jcim.7b00403) | [Link](http://pubs.acs.org/doi/suppl/10.1021/acs.jcim.7b00403/suppl_file/ci7b00403_si_001.zip) |
 | 2018 | BioSNAP datasets: Stanford biomedical network dataset collection | - | [Link](https://snap.stanford.edu/biodata/) | - |
 | 2020 | Machine learning classification can reduce false positives in structure-based virtual screening | PNAS | [Link](https://doi.org/10.1073/pnas.2000585117) | [Link1](https://data.mendeley.com/datasets/8czn4rxz68/) [Link2](https://github.com/karanicolaslab/vScreenML) |
+| 2020 | Three-dimensional convolutional neural networks and a cross-docked data set for structure-based drug design | JCIM | [Link](https://doi.org/10.1021/acs.jcim.0c00411) | [Link](https://github.com/gnina/models) |
 | 2021 | Generating property-matched decoy molecules using deep learning | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btab080) | [Link1](https://github.com/oxpig/DeepCoy) [Link2](http://opig.stats.ox.ac.uk/resources) |
 | 2021 | Hierarchical clustering split for low-bias evaluation of drug-target interaction prediction | BIBM 2021 | [Link](https://doi.org/10.1109/BIBM52615.2021.9669515) | - |
 | 2022 | TocoDecoy: A new approach to design unbiased datasets for training and benchmarking machine-learning scoring functions | J Med Chem | [Link](https://doi.org/10.1021/acs.jmedchem.2c00460) | [Link1](https://github.com/5AGE-zhang/TocoDecoy) [Link2](https://zenodo.org/record/5290011#.YSmecN--vVg) |
+### Benchmark
+| Year | Title | Journal | Paper | Website |
+| --- | --- | --- | --- | --- |
+| 2021 | Hierarchical clustering split for low-bias evaluation of drug-target interaction prediction | BIBM | [Link](https://ieeexplore.ieee.org/document/9669515) | - |
+| 2022 | DrugOOD: Out-of-Distribution (OOD) dataset curator and benchmark for AI-aided drug discovery – A focus on affinity prediction problems with noise annotations | arXiv | [Link](https://arxiv.org/pdf/2201.09637.pdf) | [Link](https://drugood.github.io/) |
 
 ## Representations for Molecules
 | Year | Title | Journal | Paper | Code |
@@ -125,6 +133,7 @@
 | --- | --- | --- | --- | --- |
 | 2023 | Evolutionary-scale prediction of atomic-level protein structure with a language model (ESM-2, ESMFold) | Science | [Link](https://doi.org/10.1126/science.ade2574) | [Link1](https://github.com/facebookresearch/esm) [Link2](https://zenodo.org/record/7566741) |
 | 2023 | EigenFold: generative protein structure prediction with diffusion models | ICLR 2023 MLDD | [Link](https://openreview.net/pdf?id=BgbRVzfQqFp) | [Link](https://github.com/bjing2016/EigenFold) |
+| 2023 | Towards predicting equilibrium distributions for molecular systems with deep learning (Distributional Graphormer, DiG) | arXiv | [Link](https://arxiv.org/abs/2306.05445) | [Link](https://distributionalgraphormer.github.io/) |
 
 ## Enzyme
 | Year | Title | Journal | Paper | Code |
@@ -240,6 +249,7 @@
 | 2018 | Protein family-specific models using deep neural networks and transfer learning improve virtual screening and highlight the need for more data | JCIM | [Link](https://doi.org/10.1021/acs.jcim.8b00350) | - |
 | 2019 | OnionNet: a multiple-layer intermolecular-contact-based convolutional neural network for protein–ligand binding affinity prediction | ACS Omega | [Link](https://doi.org/10.1021/acsomega.9b01997) | [Link](http://github.com/zhenglz/onionnet/) |
 | 2020 | RosENet: improving binding affinity prediction by leveraging molecular mechanics energies with an ensemble of 3D convolutional neural networks | JCIM | [Link](https://doi.org/10.1021/acs.jcim.0c00075) | [Link](https://github.com/DS3Lab/RosENet/tree/master) |
+| 2020 | Data set augmentation allows deep learning-based virtual screening to better generalize to unseen target classes and highlight important binding interactions | JCIM | [Link](https://doi.org/10.1021/acs.jcim.0c00263) | - |
 | 2020 | AK-Score: accurate protein-ligand binding affinity prediction using an ensemble of 3D-convolutional neural networks | Int J Mol Sci | [Link](https://doi.org/10.3390/ijms21228424) | - |
 | 2021 | Virtual Screening with Gnina 1.0 | Molecules | [Link](https://doi.org/10.3390/molecules26237369) | - |
 | 2021 | Improved protein–ligand binding affinity prediction with structure-based deep fusion inference | JCIM | [Link](https://doi.org/10.1021/acs.jcim.0c01306) | [Link](https://github.com/llnl/fast) |
@@ -283,6 +293,7 @@
 | 2016 | Benchmark of four popular virtual screening programs: construction of the active/decoy dataset remains a major determinant of measured performance | J Cheminform | [Link](https://doi.org/10.1186/s13321-016-0167-x) | - |
 | 2017 | Structural and sequence similarity makes a significant impact on machine-learning-based scoring functions for protein–ligand interactions | JCIM | [Link](https://doi.org/10.1021/acs.jcim.7b00049) | - |
 | 2019 | Hidden bias in the DUD-E dataset leads to misleading performance of deep learning in structure-based virtual screening | PLoS One | [Link](https://doi.org/10.1371/journal.pone.0220113) | - |
+| 2020 | Tapping on the black box: How is the scoring power of a machine-learning scoring function dependent on the training set? | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00714) | - |
 | 2021 | Exploration and augmentation of pharmacological space via adversarial auto-encoder model for facilitating kinase-centric drug development | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00574-4) | [Link](http://github.com/xybai-dev/EPA) |
 | 2022 | On the choice of active site sequences for kinase-ligand affinity prediction | JCIM | [Link](https://doi.org/10.1021/acs.jcim.2c00840) | [Link](https://github.com/PaccMann/paccmann_kinase_binding_residues) |
 | 2022 | Bias in the Benchmark: Systematic experimental errors in bioactivity databases confound multi-task and meta-learning algorithms | ICML-AI4Science | [Link](https://openreview.net/forum?id=Gc5oq8sr6A3) | - |
@@ -399,5 +410,12 @@
 * [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)
 
 # Related Workshop
+* [ICML 2022 Workshop AI4Science](https://openreview.net/group?id=ICML.cc/2022/Workshop/AI4Science)
 * [ICLR 2022 Workshop MLDD](https://openreview.net/submissions?page=1&venue=ICLR.cc%2F2022%2FWorkshop%2FMLDD)
 * [ICLR 2023 Workshop MLDD](https://openreview.net/submissions?page=1&venue=ICLR.cc%2F2023%2FWorkshop%2FMLDD)
+* [NeurIPS 2021 Workshop AI4Science](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/AI4Science)
+* [NeurIPS 2022 Workshop AI4Science](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/AI4Science)
+* [NeurIPS 2023 Workshop AI4Science](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/AI4Science)
+* [NeurIPS 2023 Workshop AI4D3](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/AI4D3)
+* [NeurIPS 2023 Workshop GenBio](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GenBio)
+
