@@ -119,7 +119,7 @@
 | 2022 | Spherical message passing for 3D molecular graphs | ICLR 2022 | [Link](https://openreview.net/forum?id=givsRXsOt9r) | [Link](https://github.com/divelab/DIG) |
 | 2023 | Protein representation learning by geometric structure pretraining (GearNet) | ICLR 2023 | [Link](https://openreview.net/forum?id=to3qCB3tOh9) | [Link](https://github.com/DeepGraphLearning/GearNet) |
 | 2023 | Learning hierarchical protein representations via complete 3D graph networks | ICLR 2023 | [Link](https://openreview.net/forum?id=9X-hgLDLYkQ) | [Link](https://github.com/divelab/DIG) |
-
+| 2023 | Learning harmonic molecular representations on riemannian manifold | ICLR 2023 | [Link](https://openreview.net/forum?id=ySCL-NG_I3) | [Link](https://github.com/bytedance/HMR) |
 ## Protein Structure Prediction
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
@@ -397,3 +397,7 @@
 * [awesome-graph-self-supervised-learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning)
 * [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
 * [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)
+
+# Related Workshop
+* [ICLR 2022 Workshop MLDD](https://openreview.net/submissions?page=1&venue=ICLR.cc%2F2022%2FWorkshop%2FMLDD)
+* [ICLR 2023 Workshop MLDD](https://openreview.net/submissions?page=1&venue=ICLR.cc%2F2023%2FWorkshop%2FMLDD)
