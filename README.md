@@ -36,6 +36,7 @@
     - [Generation](#Generation)
 - [Antigen-Antibody](#Antigen-Antibody)
 - [RNA](#RNA)
+  - [Protein-RNA Interaction](#Protein-RNA-Interaction)
 - [Machine Learning Algorithms](#Machine-Learning-Algorithms)
   - [Uncertainty](#Uncertainty)
   - [Interpretation](#Interpretation)
@@ -355,15 +356,12 @@
 | 2020 | PRosettaC: Rosetta based modeling of PROTAC mediated ternary complexes | JCIM | [Link](https://doi.org/10.1021/acs.jcim.0c00589) | [Link](https://prosettac.weizmann.ac.il/pacb/steps) |
 | 2023 | High accuracy prediction of PROTAC complex structures | JACS | [Link](https://doi.org/10.1021/jacs.2c09387) | - |
 | 2023 | Bayesian optimization for ternary complex prediction (BOTCP) | Artif Intell Life Sci | [Link](https://doi.org/10.1016/j.ailsci.2023.100072) | - |
-
-
 #### Generation
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2020 | Deep generative models for 3D linker design (DeLinker) | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b01120) | [Link](https://github.com/oxpig/DeLinker) |
 | 2021 | Deep generative design with 3D pharmacophoric constraints (DEVELOP）| Chem Sci | [Link](https://doi.org/10.1039/d1sc02436a) | [Link](https://github.com/oxpig/DEVELOP) |
 | 2022 | De novo PROTAC design using graph-based deep generative models | arXiv | [Link](https://arxiv.org/abs/2211.02660) | [Link1](https://github.com/divnori/Protac-Design) [Link2](https://zenodo.org/record/7278277) |
-
 
 ## Antigen-Antibody
 | Year | Title | Journal | Paper | Code |
@@ -379,11 +377,11 @@
 | 2023 | Optimization of therapeutic antibodies for reduced self-association and non-specific binding via interpretable machine learning | Nat Biomed Eng | [Link](https://doi.org/10.1038/s41551-023-01074-6) | [Link](https://github.com/Tessier-Lab-UMich/CST_Prop_Opt_ML) |
 
 ## RNA
+### Protein-RNA Interaction
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2019 | A deep learning framework to predict binding preference of RNA constituents on protein surface (NucleicNet) | Nat Commun | [Link](https://doi.org/10.1038/s41467-019-12920-0) | [Link](https://github.com/NucleicNet/NucleicNet) |
 | 2023 | RNAincoder: a deep learning-based encoder for RNA and RNA-associated interaction | NAR | [Link](https://doi.org/doi.org/10.1093/nar/gkad404) | [Link](https://idrblab.org/rnaincoder/) |
-
 
 ## Machine Learning Algorithms
 ### Uncertainty
