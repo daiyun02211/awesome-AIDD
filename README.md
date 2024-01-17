@@ -93,6 +93,7 @@
 | --- | --- | --- | --- | --- |
 | 2021 | Hierarchical clustering split for low-bias evaluation of drug-target interaction prediction | BIBM | [Link](https://ieeexplore.ieee.org/document/9669515) | - |
 | 2022 | DrugOOD: Out-of-Distribution (OOD) dataset curator and benchmark for AI-aided drug discovery – A focus on affinity prediction problems with noise annotations | arXiv | [Link](https://arxiv.org/pdf/2201.09637.pdf) | [Link](https://drugood.github.io/) |
+| 2023 | Does protein pretrained language model facilitate the prediction of protein–ligand interaction? | Methods | [Link](https://doi.org/10.1016/j.ymeth.2023.08.016) | [Link](https://github.com/brian-zZZ/PLM-PLI) |
 
 ## Representations for Molecules
 | Year | Title | Journal | Paper | Code |
@@ -217,6 +218,7 @@
 | 2021 | DTI-MLCD: Predicting drug-target interactions using multi-label learning with community detection method | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbaa205) | [Link](https://github.com/a96123155/DTI-MLCD) |
 | 2021 | DeepDTAF: A deep learning method to predict protein–ligand binding affinity | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbab072) | [Link](github.com/KailiWang1/DeepDTAF) |
 | 2021 | Explainable deep relational networks for predicting compound–protein affinities and contacts (DeepAffinity+) | JCIM | [Link](https://doi.org/10.1021/acs.jcim.0c00866) | - |
+| 2022 | NerLTR-DTA: drug–target binding affinity prediction based on neighbor relationship and learning to rank | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btac048) | [Link](https://github.com/RUXIAOQING964914140/NerLTR-DTA) |
 | 2022 | Cross-modality and self-supervised protein embedding for compound–protein affinity and contact prediction (CPAC) | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btac470) | [Link](https://github.com/Shen-Lab/CPAC/tree/main) |
 | 2022 | BACPI: A bi-directional attention neural network for compound–protein interaction and binding affinity prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btac035) | [Link](https://github.com/CSUBioGroup/BACPI) |
 | 2022 | ELECTRA-DTA: a new compound-protein binding affinity prediction model based on the contextualized sequence encoding | J Cheminform | [Link](https://doi.org/10.1186/s13321-022-00591-x) | [Link](https://github.com/IILab-Resource/ELECTRA-DTA) |
@@ -232,6 +234,7 @@
 | 2022 | CoaDTI: multi-modal co-attention based framework for drug-target interaction annotation | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbac446) | [Link](https://github.com/Layne-Huang/CoaDTI) |
 | 2022 | Mitigating cold-start problems in drug-target affinity prediction with interaction knowledge transferring (Nguyen et al) | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbac269) | [Link](https://github.com/ngminhtri0394/C2P2) |
 | 2022 | Improved compound-protein interaction site and binding affinity prediction using self-supervised protein embeddings | BMC Bioinformatics | [Link](https://doi.org/10.1186/s12859-022-05107-w) | [Link](https://github.com/Jwoods14/SPE-MONN) |
+| 2022 | Perceiver CPI: a nested cross-attention network for compound–protein interaction prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btac731) | [Link](https://github.com/dmis-lab/PerceiverCPI) |
 | 2023 | Improving compound−protein interaction predictionby self-training with augmenting negative samples | JCIM | [Link](https://doi.org/10.1021/acs.jcim.3c00269) | [Link](https://github.com/clinfo/kMoL-ST) |
 | 2023 | ArkDTA: attention regularization guided by non-covalent interactions for explainable drug–target binding affinity prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btad207) | [Link](https://github.com/dmis-lab/ArkDTA) |
 | 2023 | Improving the generalizability of protein-ligand binding predictions with AI-Bind | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-37572-z) | [Link1](https://github.com/ChatterjeeAyan/AI-Bind) [Link2](https://doi.org/10.5281/zenodo.7730755)|
@@ -240,6 +243,8 @@
 | 2023 | Sequence-based drug design as a concept in computational drug design (TransformerCPI 2.0)| Nat Commun | [Link](https://doi.org/10.1038/s41467-023-39856-w) | [Link1](https://github.com/lifanchen-simm/transformerCPI2.0) [Link2](https://doi.org/10.5281/zenodo.7993486)|
 | 2023 | MoDTI: modular framework for evaluating inductive biases in DTI modeling | ICLR 2023 MLDD | [Link](https://openreview.net/forum?id=Tj-bRjuhpJ5) | - |
 | 2023 | An industrial evaluation of proteochemometric modelling: Predicting drug-target affinities for kinases | Artif Intell Life Sci | [Link](https://doi.org/10.1016/j.ailsci.2023.100079) | [Link](https://github.com/AstraZeneca/AdaptedGraphDTA) |
+| 2023 | NHGNN-DTA: a node-adaptive hybrid graph neural network for interpretable drug–target binding affinity prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btad355) | [Link](https://github.com/hehh77/NHGNN-DTA) |
+
 ### Structure Based (CNN)
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
@@ -254,6 +259,8 @@
 | 2020 | AK-Score: accurate protein-ligand binding affinity prediction using an ensemble of 3D-convolutional neural networks | Int J Mol Sci | [Link](https://doi.org/10.3390/ijms21228424) | - |
 | 2021 | Virtual Screening with Gnina 1.0 | Molecules | [Link](https://doi.org/10.3390/molecules26237369) | - |
 | 2021 | Improved protein–ligand binding affinity prediction with structure-based deep fusion inference | JCIM | [Link](https://doi.org/10.1021/acs.jcim.0c01306) | [Link](https://github.com/llnl/fast) |
+| 2023 | CAPLA: improved prediction of protein–ligand binding affinity by a deep learning approach based on a cross-attention mechanism | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btad049) | [Link](https://github.com/lennylv/CAPLA) |
+| 2023 | DataDTA: a multi-feature and dual-interaction aggregation framework for drug–target binding affinity prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btad560) | [Link](https://github.com/YanZhu06/DataDTA) |
 | 2023 | HAC-Net: a hybrid attention-based convolutional neural network for highly accurate protein–ligand binding affinity prediction | JCIM | [Link](https://doi.org/10.1021/acs.jcim.3c00251) | [Link](https://github.com/gregory-kyro/HAC-Net/) |
 ### Structure Based (GNN)
 | Year | Title | Journal | Paper | Code |
@@ -263,6 +270,7 @@
 | 2019 | Predicting drug−target interaction using a novel graph neural network with 3D structure-embedded graph representation | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00387) | [Link](https://github.com/jaechanglim/GNN_DTI) |
 | 2022 | PIGNet: a physics-informed deep learning model toward generalized drug-target interaction predictions | Chem Sci | [Link](https://doi.org/10.1039/d1sc06946b) | [Link](https://github.com/ACE-KAIST/PIGNet) |
 | 2022 | AttentionSiteDTI: an interpretable graph-based model for drug-target interaction prediction using NLP sentence-level relation classification | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbac272) | [Link](https://github.com/yazdanimehdi/AttentionSiteDTI) |
+| 2023 | GraphscoreDTA: optimized graph neural network for protein–ligand binding affinity prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btad340) | [Link](https://github.com/CSUBioGroup/GraphscoreDTA) |
 ### Docking Scoring Function
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
@@ -307,7 +315,9 @@
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2021 | DTi2Vec: drug–target interaction prediction using network embedding and ensemble learning | J Cheminform | [Link](https://doi.org/10.1186/s13321-021-00552-w) | [Link](https://github.com/MahaThafar/DTi2Vec) |
-
+| 2021 | An end-to-end heterogeneous graph representation learning-based framework for drug–target interaction prediction | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbaa430) | [Link](https://github.com/MedicineBiology-AI/EEG-DTI) |
+| 2021 | Drug–target interaction predication via multi-channel graph neural networks | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbab346) | [Link](https://github.com/catly/drug-target) |
+| 2022 | Supervised graph co-contrastive learning for drug–target interaction prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btac164) | [Link](https://github.com/catly/SGCL-DTI) |
 
 ## Protein-protein Interaction (PPI)
 | Year | Title | Journal | Paper | Code |
