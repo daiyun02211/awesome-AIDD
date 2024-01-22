@@ -61,6 +61,7 @@
 | 2023 | Artificial intelligence in drug toxicity prediction: recent advances, challenges, and future perspectives | JCIM | [Link](https://doi.org/10.1021/acs.jcim.3c00200) | - |
 | 2023 | From target discovery to clinical drug development with human genetics | Nature | [Link](https://doi.org/10.1038/s41586-023-06388-8) | - |
 | 2023 | Recent advances in targeting the "undruggable" proteins: from drug discovery to clinical trials | Sig Transduct Target Ther | [Link](https://doi.org/10.1038/s41392-023-01589-z) | - |
+| 2024 | Attention is all you need: utilizing attention in AI-enabled drug discovery | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbad467) | - |
 
 ## Roadmap
 | Year | Title | Journal | Paper | Code |
@@ -205,6 +206,7 @@
 | 2019 | Compound–protein interaction prediction with end-to-end learning of neural networks for graphs and sequences (Tsubaki et al) | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/bty535) | [Link](https://github.com/masashitsubaki) |
 | 2019 | DeepAffinity: interpretable deep learning of compound–protein affinity through unified recurrent and convolutional neural networks | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btz111) | [Link](https://github.com/Shen-Lab/DeepAffinity) |
 | 2020 | MONN: a multi-objective neural network for predicting compound-protein interactions and affinities | Cell Syst | [Link](https://doi.org/10.1016/j.cels.2020.03.002) | [Link](https://github.com/lishuya17/MONN) |
+| 2020 | DeepCDA: deep cross-domain compound–protein affinity prediction through LSTM and convolutional neural networks | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btaa544) | [Link](https://github.com/LBBSoft/DeepCDA) |
 | 2020 | GraphDTA: predicting drug–target binding affinity with graph neural networks | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btaa921) | [Link](https://github.com/thinng/GraphDTA) |
 | 2020 | TransformerCPI: improving compound–protein interaction prediction by sequence-based deep learning with self-attention mechanism and label reversal experiments | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btaa524) | [Link](https://github.com/thinng/GraphDTA](https://github.com/lifanchen-simm/transformerCPI)) |
 | 2020 | Predicting drug–protein interaction using quasi-visual question answering system (DrugVQA) | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-020-0152-y) | [Link](https://github.com/prokia/drugVQA) |
@@ -222,6 +224,7 @@
 | 2022 | Cross-modality and self-supervised protein embedding for compound–protein affinity and contact prediction (CPAC) | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btac470) | [Link](https://github.com/Shen-Lab/CPAC/tree/main) |
 | 2022 | BACPI: A bi-directional attention neural network for compound–protein interaction and binding affinity prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btac035) | [Link](https://github.com/CSUBioGroup/BACPI) |
 | 2022 | ELECTRA-DTA: a new compound-protein binding affinity prediction model based on the contextualized sequence encoding | J Cheminform | [Link](https://doi.org/10.1186/s13321-022-00591-x) | [Link](https://github.com/IILab-Resource/ELECTRA-DTA) |
+| 2022 | Sequence-based prediction of protein binding regions and drug–target interactions | J Cheminform | [Link](https://doi.org/10.1186/s13321-022-00584-w) | [Link](https://github.com/GIST-CSBL/HoTS) |
 | 2022 | Deep neural network-assisted drug recommendation systems for identifying potential drug–target interactions | ACS Omega | [Link](https://doi.org/10.1021/acsomega.2c00424) | [Link](https://github.com/TeamSundar/dNNDR-featx) |
 | 2022 | DeepMHADTA: Prediction of drug-target binding affinity using multi-head self-attention and convolutional neural network | Curr Issues Mol Biol | [Link](https://doi.org/10.3390/cimb44050155) | - |
 | 2022 | HyperAttentionDTI: Improving drug–protein interaction prediction by sequence-based deep learning with attention mechanism | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btab715) | [Link1](https://github.com/zhaoqichang/HpyerAttentionDTI) [Link2](https://zenodo.org/record/5039589) |
@@ -236,6 +239,7 @@
 | 2022 | Improved compound-protein interaction site and binding affinity prediction using self-supervised protein embeddings | BMC Bioinformatics | [Link](https://doi.org/10.1186/s12859-022-05107-w) | [Link](https://github.com/Jwoods14/SPE-MONN) |
 | 2022 | Perceiver CPI: a nested cross-attention network for compound–protein interaction prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btac731) | [Link](https://github.com/dmis-lab/PerceiverCPI) |
 | 2023 | Improving compound−protein interaction predictionby self-training with augmenting negative samples | JCIM | [Link](https://doi.org/10.1021/acs.jcim.3c00269) | [Link](https://github.com/clinfo/kMoL-ST) |
+| 2023 | MFR-DTA: a multi-functional and robust model for predicting drug–target binding affinity and region | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btad056) | [Link](https://github.com/JU-HuaY/MFR) |
 | 2023 | ArkDTA: attention regularization guided by non-covalent interactions for explainable drug–target binding affinity prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btad207) | [Link](https://github.com/dmis-lab/ArkDTA) |
 | 2023 | Improving the generalizability of protein-ligand binding predictions with AI-Bind | Nat Commun | [Link](https://doi.org/10.1038/s41467-023-37572-z) | [Link1](https://github.com/ChatterjeeAyan/AI-Bind) [Link2](https://doi.org/10.5281/zenodo.7730755)|
 | 2023 | Interpretable bilinear attention network with domain adaptation improves drug–target prediction (DrugBAN) | Nat Mach Intell | [Link](https://doi.org/10.1038/s42256-022-00605-1) | [Link1](https://github.com/peizhenbai/DrugBAN) [Link2](https://doi.org/10.24433/CO.3558316.v1)|
