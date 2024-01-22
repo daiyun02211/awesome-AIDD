@@ -340,8 +340,10 @@
 ### Frequent Hitters
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
+| 2018 | Luciferase Advisor: High-Accuracy Model To Flag False Positive Hits in Luciferase HTS Assays | JCIM | [Link](https://doi.org/10.1021/acs.jcim.7b00574) | [Link](http://ochem.eu/) |
 | 2019 | Computational advances in combating colloidal aggregation in drug discovery | Nat Chem | [Link](https://doi.org/10.1038/s41557-019-0234-9) | - |
 | 2019 | Structural analysis and identification of colloidal aggregators in drug discovery | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b00541) | [Link](https://admet.scbdd.com/ChemAGG/index/) |
+| 2020 | Structural Analysis and Identification of False Positive Hits in Luciferase-Based Assays | JCIM | [Link](https://doi.org/10.1021/acs.jcim.9b01188) | [Link](http://admet.scbdd.com/chemfluc/index/) |
 | 2020 | Frequent hitters: nuisance artifacts in high-throughput screening | Drug Discov Today | [Link](https://doi.org/10.1016/j.drudis.2020.01.014) | - |
 | 2021 | Computational prediction of frequent hitters in target-based and cell-based assays | Artif Intell Life Sci | [Link](https://doi.org/10.1016/j.ailsci.2021.100007) | [Link](https://nerdd.univie.ac.at/hitdexter3) |
 | 2021 | Combating small-molecule aggregation with machine learning | Cell Rep Phys Sci | [Link](https://doi.org/10.1016/j.xcrp.2021.100573) | [Link](https://github.com/tcorodrigues/DeepSCAMs) |
