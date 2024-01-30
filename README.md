@@ -95,6 +95,7 @@
 | 2021 | Hierarchical clustering split for low-bias evaluation of drug-target interaction prediction | BIBM | [Link](https://ieeexplore.ieee.org/document/9669515) | - |
 | 2022 | DrugOOD: Out-of-Distribution (OOD) dataset curator and benchmark for AI-aided drug discovery – A focus on affinity prediction problems with noise annotations | arXiv | [Link](https://arxiv.org/pdf/2201.09637.pdf) | [Link](https://drugood.github.io/) |
 | 2023 | Does protein pretrained language model facilitate the prediction of protein–ligand interaction? | Methods | [Link](https://doi.org/10.1016/j.ymeth.2023.08.016) | [Link](https://github.com/brian-zZZ/PLM-PLI) |
+| 2023 | ProteinInvBench: Benchmarking Protein Inverse Folding on Diverse Tasks, Models, and Metrics | NeurIPS 2023 | [Link](https://openreview.net/forum?id=bqXduvuW5E) | [Link](https://github.com/A4Bio/ProteinInvBench) |
 
 ## Representations for Molecules
 | Year | Title | Journal | Paper | Code |
@@ -397,7 +398,11 @@
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
 | 2019 | A deep learning framework to predict binding preference of RNA constituents on protein surface (NucleicNet) | Nat Commun | [Link](https://doi.org/10.1038/s41467-019-12920-0) | [Link](https://github.com/NucleicNet/NucleicNet) |
+| 2020 | Deep neural networks for interpreting RNA-binding protein target preferences | Genome Res | [Link](https://doi.org/10.1101/gr.247494.118) | [Link](https://github.com/ohlerlab/DeepRiPe) |
+| 2021 | Predicting dynamic cellular protein–RNA interactions by deep learning using in vivo RNA structures | Cell Res | [Link](https://doi.org/10.1038/s41422-021-00476-y) | [Link1](https://github.com/kuixu/PrismNet) [Link2](https://github.com/huangwenze/PrismNet_analysis) |
+| 2022 | Protein–RNA interaction prediction with deep learning: structure matters | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbab540) | - |
 | 2023 | RNAincoder: a deep learning-based encoder for RNA and RNA-associated interaction | NAR | [Link](https://doi.org/doi.org/10.1093/nar/gkad404) | [Link](https://idrblab.org/rnaincoder/) |
+| 2023 | A systematic benchmark of machine learning methods for protein–RNA interaction prediction | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbad307) | - |
 
 ## Machine Learning Algorithms
 ### Uncertainty
