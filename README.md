@@ -105,7 +105,6 @@
 | 2022 | Does GNN pretraining help molecular representation? | NeurIPS 2022 | [Link](https://openreview.net/forum?id=uytgM9N0vlR) | - |
 | 2023 | Uni-Mol: a universal 3D molecular representation learning framework | ICLR 2023 | [Link](https://openreview.net/forum?id=6K2RM6wVqKu) | [Link](https://github.com/dptech-corp/Uni-Mol) |
 
-
 ## Representations for Proteins 
 ### [awesome-protein-representation-learning](https://github.com/LirongWu/awesome-protein-representation-learning) is highly recommanded
 ### Protein Language Models (PLMs)
@@ -132,12 +131,24 @@
 | 2023 | Protein representation learning by geometric structure pretraining (GearNet) | ICLR 2023 | [Link](https://openreview.net/forum?id=to3qCB3tOh9) | [Link](https://github.com/DeepGraphLearning/GearNet) |
 | 2023 | Learning hierarchical protein representations via complete 3D graph networks | ICLR 2023 | [Link](https://openreview.net/forum?id=9X-hgLDLYkQ) | [Link](https://github.com/divelab/DIG) |
 | 2023 | Learning harmonic molecular representations on riemannian manifold | ICLR 2023 | [Link](https://openreview.net/forum?id=ySCL-NG_I3) | [Link](https://github.com/bytedance/HMR) |
+
 ## Protein Structure Prediction
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
+| 2022 | Protein complex prediction with AlphaFold-Multimer | bioRxiv | [Link](https://doi.org/10.1101/2021.10.04.463034) | - |
 | 2023 | Evolutionary-scale prediction of atomic-level protein structure with a language model (ESM-2, ESMFold) | Science | [Link](https://doi.org/10.1126/science.ade2574) | [Link1](https://github.com/facebookresearch/esm) [Link2](https://zenodo.org/record/7566741) |
+| 2023 | Evaluation of AlphaFold-Multimer prediction on multi-chain protein complexes | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btad424) | [Link](https://gitlab.com/ElofssonLab/afm-benchmark) |
 | 2023 | EigenFold: generative protein structure prediction with diffusion models | ICLR 2023 MLDD | [Link](https://openreview.net/pdf?id=BgbRVzfQqFp) | [Link](https://github.com/bjing2016/EigenFold) |
 | 2023 | Towards predicting equilibrium distributions for molecular systems with deep learning (Distributional Graphormer, DiG) | arXiv | [Link](https://arxiv.org/abs/2306.05445) | [Link](https://distributionalgraphormer.github.io/) |
+| 2023 | Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom | bioRxiv | [Link](https://doi.org/10.1101/2023.10.09.561603) | - |
+| 2023 | Performance and structural coverage of the latest, in-development AlphaFold model (AlphaFold-latest) | - | [Link](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/a-glimpse-of-the-next-generation-of-alphafold/alphafold_latest_oct2023.pdf) | - |
+| 2023 | Accurate prediction of protein–nucleic acid complexes using RoseTTAFoldNA | Nat Methods | [Link](https://doi.org/10.1038/s41592-023-02086-5) | [Link](https://github.com/uw-ipd/RoseTTAFold2NA) |
+| 2023 | Predicting multiple conformations via sequence clustering and AlphaFold2 (AF-Cluster) | Nature | [Link](https://doi.org/10.1038/s41586-023-06832-9) | [Link](www.github.com/HWaymentSteele/AF_Cluster) |
+
+## Protein Design
+| Year | Title | Journal | Paper | Code |
+| --- | --- | --- | --- | --- |
+| 2023 | De novo design of protein structure and function with RFdiffusion | Nature | [Link](https://doi.org/10.1038/s41586-023-06415-8) | [Link](https://github.com/RosettaCommons/RFdiffusion) |
 
 ## Enzyme
 | Year | Title | Journal | Paper | Code |
@@ -301,6 +312,7 @@
 | 2023 | DiffDock: diffusion steps, twists, and turns for molecular docking | ICLR 2023 | [Link](https://openreview.net/forum?id=kKF8_K-mBbS) | [Link](https://github.com/gcorso/DiffDock) |
 | 2023 | Do deep learning models really outperform traditional approaches in molecular docking? | ICLR 2023 MLDD | [Link](https://openreview.net/pdf?id=JrtHZdbGtN) | - |
 | 2023 | SCORCH: improving structure-based virtual screening with machine learning classifiers, data augmentation, and uncertainty estimation | J Adv Res | [Link](https://doi.org/10.1016/j.jare.2022.07.001) | [Link](https://github.com/SMVDGroup/SCORCH/) |
+| 2023 | PoseBusters: AI-based docking methods fail to generate physically valid poses or generalise to novel sequences | Chem Sci | [Link](https://doi.org/10.1039/D3SC04185A) | [Link](https://github.com/maabuu/posebusters) |
 ### Latent Biases
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
