@@ -260,6 +260,9 @@
 | 2023 | MoDTI: modular framework for evaluating inductive biases in DTI modeling | ICLR 2023 MLDD | [Link](https://openreview.net/forum?id=Tj-bRjuhpJ5) | - |
 | 2023 | An industrial evaluation of proteochemometric modelling: Predicting drug-target affinities for kinases | Artif Intell Life Sci | [Link](https://doi.org/10.1016/j.ailsci.2023.100079) | [Link](https://github.com/AstraZeneca/AdaptedGraphDTA) |
 | 2023 | NHGNN-DTA: a node-adaptive hybrid graph neural network for interpretable drug–target binding affinity prediction | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btad355) | [Link](https://github.com/hehh77/NHGNN-DTA) |
+| 2023 | SAM-DTA: a sequence-agnostic model for drug–target binding affinity prediction | Brief Bioinform | [Link](https://doi.org/10.1093/bib/bbac533) | [Link](https://github.com/huzqatpku/SAM-DTA) |
+| 2024 | GraphCL-DTA: A Graph Contrastive Learning With Molecular Semantics for Drug-Target Binding Affinity Prediction | IEEE J Biomed Health Inform | [Link](https://doi.org/10.1109/JBHI.2024.3350666) | - |
+| 2024 | TEFDTA: a transformer encoder and fingerprint representation combined prediction method for bonded and non-bonded drug–target affinities | Bioinformatics | [Link](https://doi.org/10.1093/bioinformatics/btad778) | [Link](https://github.com/lizongquan01/TEFDTA) |
 
 ### Structure Based (CNN)
 | Year | Title | Journal | Paper | Code |
