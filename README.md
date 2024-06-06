@@ -119,6 +119,9 @@
 | 2021 | MSA Transformer (ESM-MSA-1b) | ICML 2021 | [Link](https://proceedings.mlr.press/v139/rao21a.html) | [Link](https://github.com/facebookresearch/esm) |
 | 2021 | Language models enable zero-shot prediction of the effects of mutations on protein function (ESM-1v) | NeurIPS 2021 | [Link](https://openreview.net/forum?id=uXc42E9ZPFs) | [Link](https://github.com/facebookresearch/esm) |
 | 2023 | Evolutionary-scale prediction of atomic-level protein structure with a language model (ESM-2, ESMFold) | Science | [Link](https://doi.org/10.1126/science.ade2574) | [Link1](https://github.com/facebookresearch/esm) [Link2](https://zenodo.org/record/7566741) |
+| 2024 | ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing | arXiv | [Link](https://doi.org/10.48550/arXiv.2402.16445) | [Link](https://github.com/PKU-YuanGroup/ProLLaMA) |
+| 2024 | Prot2Token: A multi-task framework for protein language processing using autoregressive language modeling | bioRxiv | [Link](https://doi.org/10.1101/2024.05.31.596915) | [Link](https://github.com/mahdip72/prot2token) |
+
 ### Learning from Protein Structures
 | Year | Title | Journal | Paper | Code |
 | --- | --- | --- | --- | --- |
